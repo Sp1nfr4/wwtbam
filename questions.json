@@ -1,4 +1,18 @@
 {
-    "username": "alex",
-    "level": "master"
+	"games" : [
+		{
+		    "questions" : [
+		        {
+		            "question" : "¿Qué significa la sigla 'DDoS' en el contexto de la seguridad cibernética?",
+		            "content" : [
+		                "A. Ataque de Denegación de Servicio",
+		                "B. Defensa contra el Spam y Software malicioso",
+		                "C. Desarrollo de Documentos de Seguridad",
+		                "D. Acceso Directo a Sistemas en Línea"
+		            ],
+		            "correct" : 0
+		        }
+		    ]
+		}
+	]
 }
