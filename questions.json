@@ -209,40 +209,40 @@
 				{
 				    "correct": 0,
 				    "content": [
-				        "A) Manejar contraseñas compartidas.",
-				        "B) Actualizar regularmente el software.",
-				        "C) Usar autenticación de dos factores.",
-				        "D) Mantener contraseñas fuertes."
+				        "A. Manejar contraseñas compartidas.",
+				        "B. Actualizar regularmente el software.",
+				        "C. Usar autenticación de dos factores.",
+				        "D. Mantener contraseñas fuertes."
 				    ],
 				    "question": "¿Cuál de las siguientes no es una práctica segura en ciberseguridad?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "A) Software malicioso diseñado para dañar o robar información.",
-				        "B) Software de seguridad.",
-				        "C) Un lenguaje de programación para acceder a información ajena",
-				        "D) Sistema operativo para encontrar vulnerabilidades."
+				        "A. Software malicioso diseñado para dañar o robar información.",
+				        "B. Software de seguridad.",
+				        "C. Un lenguaje de programación para acceder a información ajena",
+				        "D. Sistema operativo para encontrar vulnerabilidades."
 				    ],
 				    "question": "¿Qué es el malware?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "A) Una barrera de seguridad que filtra el tráfico de red.",
-				        "B) Un dispositivo de protección",
-				        "C) Un programa para recuperar archivos.",
-				        "D) Una técnica de piratería."
+				        "A. Una barrera de seguridad que filtra el tráfico de red.",
+				        "B. Un dispositivo de protección",
+				        "C. Un programa para recuperar archivos.",
+				        "D. Una técnica de piratería."
 				    ],
 				    "question": "¿Qué es un firewall?"
 				},
 				{
 				    "correct": 1,
 				    "content": [
-				        "A) Falsificación de identidad.",
-				        "B) Ataque de fuerza bruta.",
-				        "C) Suplantación de voz.",
-				        "D) Phishing."
+				        "A. Falsificación de identidad.",
+				        "B. Ataque de fuerza bruta.",
+				        "C. Suplantación de voz.",
+				        "D. Phishing."
 				    ],
 				    "question": "¿Cuál de las siguientes NO es una técnica de ingeniería social?"
 				}
@@ -253,120 +253,120 @@
 		        {
 		            "question" : "¿Cuál de las siguientes prácticas es una medida de seguridad efectiva para prevenir ataques de fuerza bruta?",
 		            "content" : [
-		                "C) Usar contraseñas fáciles de recordar.",
-		                "B) Usar contraseñas compartidas.",
-		                "C) Bloquear cuentas después de varios intentos fallidos.",
-		                "D) No usar autenticación de dos factores."
+		                "C. Usar contraseñas fáciles de recordar.",
+		                "B. Usar contraseñas compartidas.",
+		                "C. Bloquear cuentas después de varios intentos fallidos.",
+		                "D. No usar autenticación de dos factores."
 		            ],
 		            "correct" : 2
 		        },
 		        {
 		            "question" : "¿Qué significa la sigla 'SQL' en el contexto de seguridad informática?",
 		            "content" : [
-		                "A) Secure Query Link.",
-		                "B) Structured Query Language.",
-		                "C) System Query Log.",
-		                "D) Sensitive Query Location."
+		                "A. Secure Query Link.",
+		                "B. Structured Query Language.",
+		                "C. System Query Log.",
+		                "D. Sensitive Query Location."
 		            ],
 		            "correct" : 1
 		        },
 		        {
 		            "question" : "¿Cuál de las siguientes NO es una recomendación para crear una contraseña segura?",
 		            "content" : [
-		                "A) Usar una combinación de letras mayúsculas y minúsculas.",
-		                "B) Usar contraseñas cortas y fáciles de recordar.",
-		                "C) Incluir caracteres especiales y números.",
-		                "D) Evitar palabras comunes y personales."
+		                "A. Usar una combinación de letras mayúsculas y minúsculas.",
+		                "B. Usar contraseñas cortas y fáciles de recordar.",
+		                "C. Incluir caracteres especiales y números.",
+		                "D. Evitar palabras comunes y personales."
 		            ],
 		            "correct" : 1
 		        },
 		        {
 		            "question" : "¿Qué es un ataque de ingeniería social?",
 		            "content" : [
-		                "A) Llevar a personas para que revelen información confidencial.",
-		                "B) Un ataque para denegación de servicios",
-		                "C) Un ataque de redireccionamiento de tráfico.",
-		                "D) Técnias para crear malware."
+		                "A. Llevar a personas para que revelen información confidencial.",
+		                "B. Un ataque para denegación de servicios",
+		                "C. Un ataque de redireccionamiento de tráfico.",
+		                "D. Técnias para crear malware."
 		            ],
 		            "correct" : 0
 		        },
 		        {
 		            "question" : "¿Cuál es una característica común del ransomware?",
 		            "content" : [
-		                "A) Cifra archivos y exigir un rescate para desbloquearlos.",
-		                "B) Borra datos sin dejar rastro.",
-		                "C) Proporciona seguridad adicional a los archivos.",
-		                "D) Aumenta la velocidad del sistema."
+		                "A. Cifra archivos y exigir un rescate para desbloquearlos.",
+		                "B. Borra datos sin dejar rastro.",
+		                "C. Proporciona seguridad adicional a los archivos.",
+		                "D. Aumenta la velocidad del sistema."
 		            ],
 		            "correct" : 0
 		        },
 				{
 				    "correct": 2,
 				    "content": [
-				        "A) Una persona que accede a datos ilegales confidenciales pero no comercializa con ellos.",
-				        "B) Una persona que practica el hacking en sitios de entidades externas sin su concentimiento",
-				        "C) Una persona que trabaja legalmente para identificar vulnerabilidades en sistemas.",
-				        "D) Una persona que busca aplicar medidas de protección en una paltaforma web y/o sistema."
+				        "A. Una persona que accede a datos ilegales confidenciales pero no comercializa con ellos.",
+				        "B. Una persona que practica el hacking en sitios de entidades externas sin su concentimiento",
+				        "C. Una persona que trabaja legalmente para identificar vulnerabilidades en sistemas.",
+				        "D. Una persona que busca aplicar medidas de protección en una paltaforma web y/o sistema."
 				    ],
 				    "question": "¿Qué es un 'hacker ético'?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "A) Redireccionamiento fraudulento del tráfico web a sitios maliciosos.",
-				        "B) Envío masivo de correos electrónicos no deseados.",
-				        "C) Ataque DDoS.",
-				        "D) Suplantación de identidad en redes sociales."
+				        "A. Redireccionamiento fraudulento del tráfico web a sitios maliciosos.",
+				        "B. Envío masivo de correos electrónicos no deseados.",
+				        "C. Ataque DDoS.",
+				        "D. Suplantación de identidad en redes sociales."
 				    ],
 				    "question": "¿Qué es un ataque de 'pharming'?"
 				},
 				{
 				    "correct": 3,
 				    "content": [
-				        "D) Realizar copias de seguridad de datos sin previa aprobación.",
-				        "B) Enviar virus por correo electrónico.",
-				        "C) Usar una contraseña insegura.",
-				        "D) Suplantar la identidad de otro para engañar a la víctima."
+				        "D. Realizar copias de seguridad de datos sin previa aprobación.",
+				        "B. Enviar virus por correo electrónico.",
+				        "C. Usar una contraseña insegura.",
+				        "D. Suplantar la identidad de otro para engañar a la víctima."
 				    ],
 				    "question": "¿Qué es el 'spoofing' en ciberseguridad?"
 				},
 				{
 				    "correct": 3,
 				    "content": [
-				        "A) Huella dactilar.",
-				        "B) Contraseña única.",
-				        "C) Pregunta de seguridad.",
-				        "D) Nombre de usuario y contraseña."
+				        "A. Huella dactilar.",
+				        "B. Contraseña única.",
+				        "C. Pregunta de seguridad.",
+				        "D. Nombre de usuario y contraseña."
 				    ],
 				    "question": "¿Cuál de las siguientes NO es una forma de autenticación de dos factores?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "A) Un tipo de ataque de phishing dirigido a una persona o empresa específica.",
-				        "B) Una programa para leer las teclas que se presionan en un teclado.",
-				        "C) Una técnica de programación avanzada para el ataque a dispositivos móbiles.",
-				        "D) Un programa de lectura para la protección de correo electrónico."
+				        "A. Un tipo de ataque de phishing dirigido a una persona o empresa específica.",
+				        "B. Una programa para leer las teclas que se presionan en un teclado.",
+				        "C. Una técnica de programación avanzada para el ataque a dispositivos móbiles.",
+				        "D. Un programa de lectura para la protección de correo electrónico."
 				    ],
 				    "question": "¿Qué es un 'phishing spear'?"
 				},
 				{
 				    "correct": 2,
 				    "content": [
-				        "A) Programa instalar algun tipo de malware en celulares.",
-				        "B) Software que busca vulnerabilidades en dispositivos móviles.",
-				        "C) Manipulación de sistemas telefónicos para realizar llamadas falsas/gratuitas.",
-				        "D) Suplantación de usuarios en plataformas financieras"
+				        "A. Programa instalar algun tipo de malware en celulares.",
+				        "B. Software que busca vulnerabilidades en dispositivos móviles.",
+				        "C. Manipulación de sistemas telefónicos para realizar llamadas falsas/gratuitas.",
+				        "D. Suplantación de usuarios en plataformas financieras"
 				    ],
 				    "question": "¿Qué es el 'phreaking'?"
 				},
 				{
 				    "correct": 1,
 				    "content": [
-				        "A) Internet o Tecnología",
-				        "B) Internet de las cosas.",
-				        "C) Técnicas del Internet",
-				        "D) Internet del Trabajo"
+				        "A. Internet o Tecnología",
+				        "B. Internet de las cosas.",
+				        "C. Técnicas del Internet",
+				        "D. Internet del Trabajo"
 				    ],
 				    "question": "¿Qué significa 'IoT' en el contexto de la ciberseguridad?"
 				}
@@ -377,120 +377,120 @@
 		        {
 				    "correct": 0,
 				    "content": [
-				        "A) Un tipo de malware que registra las pulsaciones del teclado.",
-				        "B) Un programa antivirus.",
-				        "C) Un dispositivo de entrada de datos.",
-				        "D) Un firewall avanzado."
+				        "A. Un tipo de malware que registra las pulsaciones del teclado.",
+				        "B. Un programa antivirus.",
+				        "C. Un dispositivo de entrada de datos.",
+				        "D. Un firewall avanzado."
 				    ],
 				    "question": "¿Qué es un 'keylogger' en el contexto de la ciberseguridad?"
 				},
 		        {
 		            "question" : "¿Qué significa 'VPN' en el contexto de la ciberseguridad?",
 		            "content" : [
-		                "A) Variante de Protocolo de Red.",
-		                "B) Valoración de Protección y Negaciones.",
-		                "C) Red Privada Virtual.",
-		                "D) Virtualidad Protegida de Navegación."
+		                "A. Variante de Protocolo de Red.",
+		                "B. Valoración de Protección y Negaciones.",
+		                "C. Red Privada Virtual.",
+		                "D. Virtualidad Protegida de Navegación."
 		            ],
 		            "correct" : 2
 		        },
 		        {
 		            "question" : "¿Cuál es el objetivo principal de un ataque de 'man-in-the-middle'?",
 		            "content" : [
-		                "A) Interceptar y manipular la comunicación entre dos partes.",
-		                "B) Dañar físicamente los dispositivos de red.",
-		                "C) Obtención de contraseñas de usuarios.",
-		                "D) Realizar copias de seguridad de datos."
+		                "A. Interceptar y manipular la comunicación entre dos partes.",
+		                "B. Dañar físicamente los dispositivos de red.",
+		                "C. Obtención de contraseñas de usuarios.",
+		                "D. Realizar copias de seguridad de datos."
 		            ],
 		            "correct" : 0
 		        },
 		        {
 		            "question" : "¿Cuál de las siguientes es una medida de seguridad importante para proteger una red Wi-Fi?",
 		            "content" : [
-		                "A) No cambiar nunca la contraseña predeterminada del enrutador.",
-		                "B) Posicionar el router en una ubicación específica para limitar a los demás d esu señal.",
-		                "C) Mantener la red 2.4GHz.",
-		                "D) Usar cifrado WPA2 o WPA3."
+		                "A. No cambiar nunca la contraseña predeterminada del enrutador.",
+		                "B. Posicionar el router en una ubicación específica para limitar a los demás de su señal.",
+		                "C. Mantener la red 2.4GHz.",
+		                "D. Usar cifrado WPA2 o WPA3."
 		            ],
 		            "correct" : 3
 		        },
 		        {
 		            "question" : "¿Qué es un 'botnet' en el contexto de la ciberseguridad?",
 		            "content" : [
-		                "A) Un firewall de aplicaciones web y de servidores.",
-		                "B) Un software antivirus.",
-		                "C) Una red de servidores seguros.",
-		                "D) Una red de dispositivos infectados controlados por un atacante."
+		                "A. Un firewall de aplicaciones web y de servidores.",
+		                "B. Un software antivirus.",
+		                "C. Una red de servidores seguros.",
+		                "D. Una red de dispositivos infectados controlados por un atacante."
 		            ],
 		            "correct" : 3
 		        },
 				{
 				    "correct": 0,
 				    "content": [
-				        "A) Una vulnerabilidad de software que se aprovecha antes de 1 día.",
-				        "B) Una ataque de software donde se deben recuperar los datos antes de 1 día.",
-				        "C) Un ransomware el cual exige el pago en menos de un día.",
-				        "D) El acceso único de un criminal informático para eliminar los datos en menos de 1 día"
+				        "A. Una vulnerabilidad de software que se aprovecha antes de 1 día.",
+				        "B. Una ataque de software donde se deben recuperar los datos antes de 1 día.",
+				        "C. Un ransomware el cual exige el pago en menos de un día.",
+				        "D. El acceso único de un criminal informático para eliminar los datos en menos de 1 día"
 				    ],
 				    "question": "¿Qué es un 'zero-day exploit'?"
 				},
 				{
 				    "correct": 3,
 				    "content": [
-				        "A) Una prueba que se le hace para el monitorear rendimiento de velocidad",
-				        "B) Una prueba creada para acceder a una posición laboral",
-				        "C) Un intento de visualizar archivos localizados en la nube",
-				        "D) Un intento controlado de explotar vulnerabilidades para identificar debilidades en un sistema."
+				        "A. Una prueba que se le hace para el monitorear rendimiento de velocidad",
+				        "B. Una prueba creada para acceder a una posición laboral",
+				        "C. Un intento de visualizar archivos localizados en la nube",
+				        "D. Un intento controlado de explotar vulnerabilidades para identificar debilidades en un sistema."
 				    ],
 				    "question": "¿Qué es un 'Penetration Test'?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "A) Simulan ataques de adversarios para evaluar la seguridad de una organización.",
-				        "B) Proteger una organización con los métodos más eficientes en TI",
-				        "C) Reaccionar de manera presta a los ataques recibidos por parte de externos",
-				        "D) Generar concientización en las organizaciones que presenten anomalías en TI"
+				        "A. Simulan ataques de adversarios para evaluar la seguridad de una organización.",
+				        "B. Proteger una organización con los métodos más eficientes en TI",
+				        "C. Reaccionar de manera presta a los ataques recibidos por parte de externos",
+				        "D. Generar concientización en las organizaciones que presenten anomalías en TI"
 				    ],
 				    "question": "¿Qué hace un 'Red Team' en ciberseguridad?"
 				},
 				{
 				    "correct": 2,
 				    "content": [
-				        "A) Simulan ataques de adversarios para evaluar la seguridad de una organización.",
-				        "C) Reaccionar de manera presta a los ataques recibidos por parte de externos",
-				        "C) Proteger una organización con los métodos más eficientes en TI",
-				        "D) Generar concientización en las organizaciones que presenten anomalías en TI"
+				        "A. Simulan ataques de adversarios para evaluar la seguridad de una organización.",
+				        "C. Reaccionar de manera presta a los ataques recibidos por parte de externos",
+				        "C. Proteger una organización con los métodos más eficientes en TI",
+				        "D. Generar concientización en las organizaciones que presenten anomalías en TI"
 				    ],
 				    "question": "¿Qué hace un 'Blue Team' en ciberseguridad?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "A) Un intento de adivinar contraseñas utilizando palabras comunes o diccionarios.",
-				        "B) Un intento de adivinar contraseñas utilizando letras comunes o diccionarios.",
-				        "C) Un intento de adivinar contraseñas utilizando adjetivos y sustantivos más comunes o diccionarios.",
-				        "D) Un intento de adivinar contraseñas utilizando nombres comunes o diccionarios."
+				        "A. Un intento de adivinar contraseñas utilizando palabras comunes o diccionarios.",
+				        "B. Un intento de adivinar contraseñas utilizando letras comunes o diccionarios.",
+				        "C. Un intento de adivinar contraseñas utilizando adjetivos y sustantivos más comunes o diccionarios.",
+				        "D. Un intento de adivinar contraseñas utilizando nombres comunes o diccionarios."
 				    ],
 				    "question": "¿Qué es un 'Ataque de Diccionario'?"
 				},
 				{
 				    "correct": 2,
 				    "content": [
-				        "A) La estructura TI",
-				        "B) Un dispositivo desactualizado",
-				        "C) El humano",
-				        "D) Las fallas en hardware y software"
+				        "A. La estructura TI",
+				        "B. Un dispositivo desactualizado",
+				        "C. El humano",
+				        "D. Las fallas en hardware y software"
 				    ],
 				    "question": "¿Cuál es considerado el eslabón más débil en la ciberseguridad?"
 				},
 				{
 				    "correct": 2,
 				    "content": [
-				        "C) Realizar copias de seguridad de archivos.",
-				        "B) Proteger contra el malware.",
-				        "C) Atraer a los atacantes para detectar y estudiar sus actividades.",
-				        "D) Enviar correos electrónicos spam."
+				        "C. Realizar copias de seguridad de archivos.",
+				        "B. Proteger contra el malware.",
+				        "C. Atraer a los atacantes para detectar y estudiar sus actividades.",
+				        "D. Enviar correos electrónicos spam."
 				    ],
 				    "question": "¿Cuál es el propósito de un 'Honeypot' en seguridad informática?"
 				}
@@ -501,120 +501,120 @@
 		        {
 		            "question" : "¿Qué es la 'Integridad de los Datos' en ciberseguridad?",
 		            "content" : [
-		                "A) El proceso de desencriptar datos.",
-		                "B) La garantía de que los datos no han sido modificados por partes no autorizadas.",
-		                "C) La calidad de los datos (misma cantidad de mb enviadas que recibidas)",
-		                "D) El correcto diligenciamiento de los datos"
+		                "A. El proceso de desencriptar datos.",
+		                "B. La garantía de que los datos no han sido modificados por partes no autorizadas.",
+		                "C. La calidad de los datos (misma cantidad de mb enviadas que recibidas)",
+		                "D. El correcto diligenciamiento de los datos"
 		            ],
 		            "correct" : 1
 		        },
 		        {
 		            "question" : "¿Qué es el 'Cross-Site Scripting' (XSS) en seguridad web?",
 		            "content" : [
-		                "A) Una vulnerabilidad que permite la ejecución de código malicioso en un navegador.",
-		                "B) Una vulnerabilidad que permite generar cambios en los puertos de los servidores en uso",
-		                "B) Una vulnerabilidad que permite visualizar los elementos alojados en las carpetas del disco duro",
-		                "B) Una vulnerabilidad que hace que se desactiven los drivers en un dispositivo"
+		                "A. Una vulnerabilidad que permite la ejecución de código malicioso en un navegador.",
+		                "B. Una vulnerabilidad que permite generar cambios en los puertos de los servidores en uso",
+		                "B. Una vulnerabilidad que permite visualizar los elementos alojados en las carpetas del disco duro",
+		                "B. Una vulnerabilidad que hace que se desactiven los drivers en un dispositivo"
 		            ],
 		            "correct" : 0
 		        },
 		        {
 		            "question" : "¿Qué significa 'Cross-Site Request Forgery' (CSRF) en ciberseguridad?",
 		            "content" : [
-		                "A) Un ataque que involucra numerosos intentos por parte de un externo a un servidor",
-		                "B) Un ataque que involucra la ejecución no autorizada de acciones en nombre del usuario.",
-		                "C) Un enlace malicioso en un correo electrónico.",
-		                "D) Un sistema de configuración para firewalls y nuevos usuarios en la organización"
+		                "A. Un ataque que involucra numerosos intentos por parte de un externo a un servidor",
+		                "B. Un ataque que involucra la ejecución no autorizada de acciones en nombre del usuario.",
+		                "C. Un enlace malicioso en un correo electrónico.",
+		                "D. Un sistema de configuración para firewalls y nuevos usuarios en la organización"
 		            ],
 		            "correct" : 1
 		        },
 		        {
 		            "question" : "¿Qué es el 'RBAC' en seguridad de aplicaciones?",
 		            "content" : [
-		                "A) Control de Acceso Basado en Relaciones",
-		                "B) Control de Acceso Basado en Rendimiento",
-		                "C) Restauración Basada en Acceso Corporativos",
-		                "D) Control de Acceso Basado en Roles"
+		                "A. Control de Acceso Basado en Relaciones",
+		                "B. Control de Acceso Basado en Rendimiento",
+		                "C. Restauración Basada en Acceso Corporativos",
+		                "D. Control de Acceso Basado en Roles"
 		            ],
 		            "correct" : 3
 		        },
 				{
 				    "correct": 1,
 				    "content": [
-				        "A) Un procedimiento donde el delincuente cibernético pide dinero a cambio de dinero",
-				        "B) Un ataque que roba la identificación de sesión de un usuario para suplantar su identidad.",
-				        "C) Un método para bloquear el acceso de sesión de un usuario mediante numerosos accesos",
-				        "D) Un ataque que borra las credenciales de acceso de un usuario"
+				        "A. Un procedimiento donde el delincuente cibernético pide dinero a cambio de dinero",
+				        "B. Un ataque que roba la identificación de sesión de un usuario para suplantar su identidad.",
+				        "C. Un método para bloquear el acceso de sesión de un usuario mediante numerosos accesos",
+				        "D. Un ataque que borra las credenciales de acceso de un usuario"
 				    ],
 				    "question": "¿Qué es el 'Secuestro de Sesión' (Session Hijacking)?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "A) Un ataque donde los pentesters no disponen de conocimiento previo acerca de la infraestructura que va a ser probada",
-				        "B) Un ataque donde los pentesters disponen de total conocimiento previo acerca de la infraestructura que va a ser probada",
-				        "C) Un ataque donde los pentesters disponen de conocimiento parcial acerca de la infraestructura que va a ser probada",
-				        "D) Un ataque donde los pentesters disponen de conocimiento dinámico acerca de la infraestructura a la hora de ser probada"
+				        "A. Un ataque donde los pentesters no disponen de conocimiento previo acerca de la infraestructura que va a ser probada",
+				        "B. Un ataque donde los pentesters disponen de total conocimiento previo acerca de la infraestructura que va a ser probada",
+				        "C. Un ataque donde los pentesters disponen de conocimiento parcial acerca de la infraestructura que va a ser probada",
+				        "D. Un ataque donde los pentesters disponen de conocimiento dinámico acerca de la infraestructura a la hora de ser probada"
 				    ],
 				    "question": "¿Qué es un Pentesting de caja negra?"
 				},
 				{
 				    "correct": 3,
 				    "content": [
-						"A) Un ataque donde los pentesters disponen de conocimiento dinámico acerca de la infraestructura a la hora de ser probada",
-						"B) Un ataque donde los pentesters no disponen de conocimiento previo acerca de la infraestructura que va a ser probada",
-				        "C) Un ataque donde los pentesters disponen de total conocimiento previo acerca de la infraestructura que va a ser probada",
-				        "D) Un ataque donde los pentesters disponen de conocimiento parcial acerca de la infraestructura que va a ser probada"
+						"A. Un ataque donde los pentesters disponen de conocimiento dinámico acerca de la infraestructura a la hora de ser probada",
+						"B. Un ataque donde los pentesters no disponen de conocimiento previo acerca de la infraestructura que va a ser probada",
+				        "C. Un ataque donde los pentesters disponen de total conocimiento previo acerca de la infraestructura que va a ser probada",
+				        "D. Un ataque donde los pentesters disponen de conocimiento parcial acerca de la infraestructura que va a ser probada"
 				    ],
 				    "question": "¿Qué es un Pentesting de caja gris?"
 				},
 				{
 				    "correct": 3,
 				    "content": [
-						"A) Un ataque donde los pentesters disponen de conocimiento parcial acerca de la infraestructura que va a ser probada",
-						"B) Un ataque donde los pentesters disponen de conocimiento dinámico acerca de la infraestructura a la hora de ser probada",
-						"C) Un ataque donde los pentesters no disponen de conocimiento previo acerca de la infraestructura que va a ser probada",
-				        "D) Un ataque donde los pentesters disponen de total conocimiento previo acerca de la infraestructura que va a ser probada"
+						"A. Un ataque donde los pentesters disponen de conocimiento parcial acerca de la infraestructura que va a ser probada",
+						"B. Un ataque donde los pentesters disponen de conocimiento dinámico acerca de la infraestructura a la hora de ser probada",
+						"C. Un ataque donde los pentesters no disponen de conocimiento previo acerca de la infraestructura que va a ser probada",
+				        "D. Un ataque donde los pentesters disponen de total conocimiento previo acerca de la infraestructura que va a ser probada"
 				    ],
 				    "question": "¿Qué es un Pentesting de caja blanca?"
 				},
 				{
 				    "correct": 2,
 				    "content": [
-						"A) Un ataque donde los pentesters disponen de total conocimiento previo acerca de la infraestructura que va a ser probada",
-						"B) Un ataque donde los pentesters disponen de conocimiento parcial acerca de la infraestructura que va a ser probada",
-						"C) Un ataque donde los pentesters disponen de conocimiento dinámico acerca de la infraestructura a la hora de ser probada",
-						"D) Un ataque donde los pentesters no disponen de conocimiento previo acerca de la infraestructura que va a ser probada"
+						"A. Un ataque donde los pentesters disponen de total conocimiento previo acerca de la infraestructura que va a ser probada",
+						"B. Un ataque donde los pentesters disponen de conocimiento parcial acerca de la infraestructura que va a ser probada",
+						"C. Un ataque donde los pentesters disponen de conocimiento dinámico acerca de la infraestructura a la hora de ser probada",
+						"D. Un ataque donde los pentesters no disponen de conocimiento previo acerca de la infraestructura que va a ser probada"
 				    ],
 				    "question": "¿Cuál de los siguientes tipos de caja en Pentest no existe?"
 				},
 				{
 				    "correct": 1,
 				    "content": [
-				        "A) La práctica de buscar vulnerabilidades en el software de una organización.",
-				        "B) La práctica de buscar redes inalámbricas abiertas o vulnerables mientras se conduce en un vehículo en movimiento.",
-				        "C) La práctica de obtener acceso no autorizado a un sistema utilizando credenciales robadas.",
-				        "D) La práctica de enviar correos electrónicos maliciosos a una organización."
+				        "A. La práctica de buscar vulnerabilidades en el software de una organización.",
+				        "B. La práctica de buscar redes inalámbricas abiertas o vulnerables mientras se conduce en un vehículo en movimiento.",
+				        "C. La práctica de obtener acceso no autorizado a un sistema utilizando credenciales robadas.",
+				        "D. La práctica de enviar correos electrónicos maliciosos a una organización."
 				    ],
 				    "question": "¿Qué es el wardriving?"
 				},
 		        {
 		            "question" : "De las siguientes contraseñas ¿cuál es la más segura?",
 		            "content" : [
-		                "A) 1234",
-		                "B) dragon",
-		                "C) p1nc3l",
-		                "D) Bi%DuIn!"
+		                "A. 1234",
+		                "B. dragon",
+		                "C. p1nc3l",
+		                "D. Bi%DuIn!"
 		            ],
 		            "correct" : 3
 		        },
 				{
 				    "correct": 2,
 				    "content": [
-				        "A) Wi-Fi comunitaria gratuita y abierta, por ejemplo, en el centro de la ciudad",
-				        "B) Wi-Fi gratuita y abierta en cafeterías, restaurantes, museos, edificios públicos, aeropuertos y estaciones de tren",
-				        "C) Wi-Fi de pago en transportes y hoteles",
-				        "D) Wi-Fi privada, por ejemplo, en el domicilio de un amigo"
+				        "A. Wi-Fi comunitaria gratuita y abierta, por ejemplo, en el centro de la ciudad",
+				        "B. Wi-Fi gratuita y abierta en cafeterías, restaurantes, museos, edificios públicos, aeropuertos y estaciones de tren",
+				        "C. Wi-Fi de pago en transportes y hoteles",
+				        "D. Wi-Fi privada, por ejemplo, en el domicilio de un amigo"
 				    ],
 				    "question": "¿A qué tipos de red Wi-Fi cree que es seguro conectar el ordenador o teléfono del trabajo fuera de la oficina? Seleccione todas las opciones que correspondan."
 				}
