@@ -127,616 +127,496 @@
 		{
 		    "questions" : [
 		        {
-		            "question" : "In the U.S., if it's not Daylight Saving Time, it's what?",
+		            "question" : "¿Cuál es el propósito de un escaneo de puertos en una red?",
 		            "content" : [
-		                "Borrowed time",
-		                "Overtime",
-		                "Standard time",
-		                "Party time"
+		                "A. Bloquear el tráfico de red no deseado",
+		                "B. Enviar correos electrónicos de phishing",
+		                "C. Identificar servicios y puertos abiertos en un sistema",
+		                "D. Hacer copias de seguridad de datos"
 		            ],
 		            "correct" : 2
 		        },
 		        {
-		            "question" : "Which part of the body are you most likely to \"stub\"?",
+		            "question" : "¿Qué tipo de ataque se enfoca en la manipulación de datos en tránsito entre un cliente y un servidor?",
 		            "content" : [
-		                "Toe",
-		                "Knee",
-		                "Elbow",
-		                "Brain"
+		                "A. Ataque de intermediario (Man-in-the-Middle)",
+		                "B. Ataque de fuerza bruta",
+		                "C. Ataque de denegación de servicio distribuido (DDoS)",
+		                "D. Ataque de suplantación de identidad"
 		            ],
 		            "correct" : 0
 		        },
 		        {
-		            "question" : "Which country is largest by area?",
+		            "question" : "¿Qué práctica de seguridad se refiere a la restricción de permisos y accesos a sistemas y datos en función de las necesidades del usuario?",
 		            "content" : [
-		                "UK",
-		                "USA",
-		                "Russia",
-		                "China"
+		                "A. Uso de contraseñas cortas",
+		                "B. Contraseñas compartidas",
+		                "C. Principio de privilegio mínimo",
+		                "D. Compartir contraseñas en línea"
 		            ],
 		            "correct" : 2
 		        },
 		        {
-		            "question" : "What does the \"F\" stand for in FBI?",
+		            "question" : "¿Cuál de las siguientes es una característica común de un sistema de autenticación biométrica?",
 		            "content" : [
-		                "Foreign",
-		                "Federal",
-		                "Flappy",
-		                "Face"
+		                "A. Se basa en contraseñas y códigos PIN",
+		                "B. Utiliza rasgos físicos o comportamentales únicos del usuario",
+		                "C. Es vulnerable a ataques de fuerza bruta",
+		                "D. Requiere verificación en dos pasos"
 		            ],
 		            "correct" : 1
 		        },
 		        {
-		            "question" : "The US declared war on which country after the bombing of Pearl Harbor?",
+		            "question" : "¿Qué es un 'gusano' en el contexto de la seguridad cibernética?",
 		            "content" : [
-		                "Japan",
-		                "Russia",
-		                "Germany",
-		                "China"
+		                "A. Un tipo de malware autorreplicante que se propaga a través de la red",
+		                "B. Un programa antivirus",
+		                "C. Un servicio de red virtual",
+		                "D. Un mecanismo de autenticación"
 		            ],
 		            "correct" : 0
 		        },
 				{
 				    "correct": 0,
 				    "content": [
-				        "Letter of Credit (L/C)",
-				        "laissezfaire",
-				        "inflation",
-				        "None of the above"
+				        "A. SSL/TLS",
+				        "B. HTTP",
+				        "C. FTP",
+				        "D. UDP"
 				    ],
-				    "question": "A guarantee to an exporter that the importer of his goods will pay immediately for the goods ordered by him, is known as"
+				    "question": "¿Cuál de las siguientes opciones se utiliza comúnmente para cifrar la comunicación entre un navegador web y un servidor?"
 				},
 				{
 				    "correct": 3,
 				    "content": [
-				        "Visible light",
-				        "Infrared radiation",
-				        "X-rays and gamma rays",
-				        "Ultraviolet radiation"
+				        "A. Ataque de denegación de servicio (DoS)",
+				        "B. Ataque de intermediario",
+				        "C. Ataque de fuerza bruta",
+				        "D. Ataque de suplantación de identidad"
 				    ],
-				    "question": "The ozone layer restricts"
+				    "question": "¿Qué tipo de ataque implica el uso de contraseñas comunes o predecibles para acceder a una cuenta?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "the first Buddhist pilgrim of China to visit India during the reign of Chandragupta Vikramaditya",
-				        "the discoverer of Puerto Rico and Jamaica",
-				        "the first Buddhist pilgrim of India to visit China",
-				        "None of the above"
+				        "A. Cifrado",
+				        "B. Firewall",
+				        "C. Copias de seguridad",
+				        "D. Antivirus"
 				    ],
-				    "question": "Fa-Hien was"
+				    "question": "¿Qué práctica de seguridad impide que un archivo o mensaje se lea por terceros no autorizados?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "Harvard",
-				        "University of Washington",
-				        "Yale",
-				        "Oxford"
+				        "A) Manejar contraseñas compartidas.",
+				        "B) Actualizar regularmente el software.",
+				        "C) Usar autenticación de dos factores.",
+				        "D) Mantener contraseñas fuertes."
 				    ],
-				    "question": "What was the first university in the United States"
+				    "question": "¿Cuál de las siguientes no es una práctica segura en ciberseguridad?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "The amount of energy it takes to move an electron through a potential difference of 1 volt",
-				        "The number of volts it takes to move an electon a meter",
-				        "The number of electrons it takes to kill a human being",
-				        "The flux of current through a surface parallel to a capacitor"
+				        "A) Software malicioso diseñado para dañar o robar información.",
+				        "B) Software de seguridad.",
+				        "C) Un lenguaje de programación para acceder a información ajena",
+				        "D) Sistema operativo para encontrar vulnerabilidades."
 				    ],
-				    "question": "An electron volt is"
+				    "question": "¿Qué es el malware?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "14th November",
-				        "11th December",
-				        "15th October",
-				        "1st July"
+				        "A) Una barrera de seguridad que filtra el tráfico de red.",
+				        "B) Un dispositivo de protección",
+				        "C) Un programa para recuperar archivos.",
+				        "D) Una técnica de piratería."
 				    ],
-				    "question": "When is the World's Diabetes Day?"
+				    "question": "¿Qué es un firewall?"
 				},
 				{
-				    "correct": 0,
+				    "correct": 1,
 				    "content": [
-				        "Kelvin",
-				        "Celsius",
-				        "Centigrade",
-				        "Fahrenheit"
+				        "A) Falsificación de identidad.",
+				        "B) Ataque de fuerza bruta.",
+				        "C) Suplantación de voz.",
+				        "D) Phishing."
 				    ],
-				    "question": "What is the S.I. unit of temperature?"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "July 21, 1969",
-				        "July 21, 1970",
-				        "July 21, 1963",
-				        "July 21, 1972"
-				    ],
-				    "question": "When did US astronauts Neil Armstrong and Edwin E. Aldrin land on the moon?"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "the density of milk increases",
-				        "the density of milk decreases",
-				        "the density of milk remains unchanged",
-				        "it becomes more viscous"
-				    ],
-				    "question": "When cream is separated from milk"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "1999",
-				        "1989",
-				        "1979",
-				        "1969"
-				    ],
-				    "question": "When did 19 NATO members and 11 'Partners for Peace' join hands for peace plan for Kosovo Crisis?"
+				    "question": "¿Cuál de las siguientes NO es una técnica de ingeniería social?"
 				}
 		    ]
 		},
 		{
 		    "questions" : [
 		        {
-		            "question" : "An albino gorilla usually has what color fur?",
+		            "question" : "¿Cuál de las siguientes prácticas es una medida de seguridad efectiva para prevenir ataques de fuerza bruta?",
 		            "content" : [
-		                "Brown",
-		                "Black",
-		                "White",
-		                "Golden"
+		                "C) Usar contraseñas fáciles de recordar.",
+		                "B) Usar contraseñas compartidas.",
+		                "C) Bloquear cuentas después de varios intentos fallidos.",
+		                "D) No usar autenticación de dos factores."
 		            ],
 		            "correct" : 2
 		        },
 		        {
-		            "question" : "When you enter a situation without a definite plan of action, you are said to be \"playing it by\" what?",
+		            "question" : "¿Qué significa la sigla 'SQL' en el contexto de seguridad informática?",
 		            "content" : [
-		                "Fingertips",
-		                "Ear",
-		                "Nose",
-		                "Mouth"
+		                "A) Secure Query Link.",
+		                "B) Structured Query Language.",
+		                "C) System Query Log.",
+		                "D) Sensitive Query Location."
 		            ],
 		            "correct" : 1
 		        },
 		        {
-		            "question" : "What is commonly known as the \"Emerald City\" in the United States?",
+		            "question" : "¿Cuál de las siguientes NO es una recomendación para crear una contraseña segura?",
 		            "content" : [
-		                "Palos Verdes, CA",
-		                "Seattle, WA",
-		                "New York, NY",
-		                "Dallas, TX"
+		                "A) Usar una combinación de letras mayúsculas y minúsculas.",
+		                "B) Usar contraseñas cortas y fáciles de recordar.",
+		                "C) Incluir caracteres especiales y números.",
+		                "D) Evitar palabras comunes y personales."
 		            ],
 		            "correct" : 1
 		        },
 		        {
-		            "question" : "What is the national emblem of Canada?",
+		            "question" : "¿Qué es un ataque de ingeniería social?",
 		            "content" : [
-		                "Maple Leaf",
-		                "Brown Bear",
-		                "Maple Syrup",
-		                "Waffle"
+		                "A) Llevar a personas para que revelen información confidencial.",
+		                "B) Un ataque para denegación de servicios",
+		                "C) Un ataque de redireccionamiento de tráfico.",
+		                "D) Técnias para crear malware."
 		            ],
 		            "correct" : 0
 		        },
 		        {
-		            "question" : "What is the name of the largest freshwater lake in the world?",
+		            "question" : "¿Cuál es una característica común del ransomware?",
 		            "content" : [
-		                "Lake Union",
-		                "Lake Superior",
-		                "Lake Largest",
-		                "Lake Goodwin"
+		                "A) Cifra archivos y exigir un rescate para desbloquearlos.",
+		                "B) Borra datos sin dejar rastro.",
+		                "C) Proporciona seguridad adicional a los archivos.",
+		                "D) Aumenta la velocidad del sistema."
 		            ],
 		            "correct" : 0
 		        },
 				{
 				    "correct": 2,
 				    "content": [
-				        "Birds",
-				        "Cell formation",
-				        "Relation between organisms and their environment",
-				        "Tissues"
+				        "A) Una persona que accede a datos ilegales confidenciales pero no comercializa con ellos.",
+				        "B) Una persona que practica el hacking en sitios de entidades externas sin su concentimiento",
+				        "C) Una persona que trabaja legalmente para identificar vulnerabilidades en sistemas.",
+				        "D) Una persona que busca aplicar medidas de protección en una paltaforma web y/o sistema."
 				    ],
-				    "question": "Ecology deals with"
+				    "question": "¿Qué es un 'hacker ético'?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "Earth's gravitational pull",
-				        "Moon's gravitational pull",
-				        "Centripetal force due to the earth's rotation",
-				        "Pressure of the atmosphere"
+				        "A) Redireccionamiento fraudulento del tráfico web a sitios maliciosos.",
+				        "B) Envío masivo de correos electrónicos no deseados.",
+				        "C) Ataque DDoS.",
+				        "D) Suplantación de identidad en redes sociales."
 				    ],
-				    "question": "The escape velocity of a rocket fired from the earth towards the moon is the velocity required to overcome"
+				    "question": "¿Qué es un ataque de 'pharming'?"
 				},
 				{
 				    "correct": 3,
 				    "content": [
-				        "was a great Italian painter, sculptor and architect",
-				        "got universal fame form his masterpiece \"Mona lisa\"",
-				        "drew models of organs such as the heart, lungs and womb",
-				        "All of the above"
+				        "D) Realizar copias de seguridad de datos sin previa aprobación.",
+				        "B) Enviar virus por correo electrónico.",
+				        "C) Usar una contraseña insegura.",
+				        "D) Suplantar la identidad de otro para engañar a la víctima."
 				    ],
-				    "question": "Leonardo da Vinci"
+				    "question": "¿Qué es el 'spoofing' en ciberseguridad?"
 				},
 				{
-				    "correct": 2,
+				    "correct": 3,
 				    "content": [
-				        "2000",
-				        "2001",
-				        "2002",
-				        "2003"
+				        "A) Huella dactilar.",
+				        "B) Contraseña única.",
+				        "C) Pregunta de seguridad.",
+				        "D) Nombre de usuario y contraseña."
 				    ],
-				    "question": "Hamid Karzai was chosen president of Afghanistan in"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "New York, USA",
-				        "Haque (Netherlands)",
-				        "Geneva",
-				        "Paris"
-				    ],
-				    "question": "The headquarters of UN are situated at"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "friction between the earth and the bus",
-				        "friction between the passengers and the earth",
-				        "inertia of the passengers",
-				        "inertia of the bus"
-				    ],
-				    "question": "When a moving bus stops suddenly, the passenger are pushed forward because of the"
-				},
-				{
-				    "correct": 1,
-				    "content": [
-				        "1908 at London",
-				        "1980 at Moscow",
-				        "1936 at Berlin",
-				        "1924 at Paris"
-				    ],
-				    "question": "When and where was hockey introduced for women in Olympics?"
+				    "question": "¿Cuál de las siguientes NO es una forma de autenticación de dos factores?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "increase the alkalinity of the soil",
-				        "increase the acidity of the soil",
-				        "restore nitrates to the soil",
-				        "make the soil more porous"
+				        "A) Un tipo de ataque de phishing dirigido a una persona o empresa específica.",
+				        "B) Una programa para leer las teclas que se presionan en un teclado.",
+				        "C) Una técnica de programación avanzada para el ataque a dispositivos móbiles.",
+				        "D) Un programa de lectura para la protección de correo electrónico."
 				    ],
-				    "question": "Lime is sometimes applied to soil in order to"
+				    "question": "¿Qué es un 'phishing spear'?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "A) Programa instalar algun tipo de malware en celulares.",
+				        "B) Software que busca vulnerabilidades en dispositivos móviles.",
+				        "C) Manipulación de sistemas telefónicos para realizar llamadas falsas/gratuitas.",
+				        "D) Suplantación de usuarios en plataformas financieras"
+				    ],
+				    "question": "¿Qué es el 'phreaking'?"
 				},
 				{
 				    "correct": 1,
 				    "content": [
-				        "discovered Greenland",
-				        "travelled through China, India and other parts of Asia",
-				        "travelled round the cape of Good Hope",
-				        "discovered Canada"
+				        "A) Internet o Tecnología",
+				        "B) Internet de las cosas.",
+				        "C) Técnicas del Internet",
+				        "D) Internet del Trabajo"
 				    ],
-				    "question": "Marco Polo"
-				},
-				{
-				    "correct": 1,
-				    "content": [
-				        "Guruji",
-				        "Man of Peace",
-				        "Punjab Kesari",
-				        "Mahamana"
-				    ],
-				    "question": "Lal Bahadur Shastri is also known as"
+				    "question": "¿Qué significa 'IoT' en el contexto de la ciberseguridad?"
 				}
 		    ]
 		},
 		{
 		    "questions" : [
 		        {
-		            "question" : "Which of the following consumer goods is the Gerber Products Co. best known for?",
-		            "content" : [
-		                "Potato chips",
-		                "Fine wines",
-		                "Chewing gum",
-		                "Baby Food"
-		            ],
-		            "correct" : 3
-		        },
+				    "correct": 0,
+				    "content": [
+				        "A) Un tipo de malware que registra las pulsaciones del teclado.",
+				        "B) Un programa antivirus.",
+				        "C) Un dispositivo de entrada de datos.",
+				        "D) Un firewall avanzado."
+				    ],
+				    "question": "¿Qué es un 'keylogger' en el contexto de la ciberseguridad?"
+				},
 		        {
-		            "question" : "In which of these household appliances would you find a lint screen?",
+		            "question" : "¿Qué significa 'VPN' en el contexto de la ciberseguridad?",
 		            "content" : [
-		                "Dishwasher",
-		                "Microwave oven",
-		                "Clothes dryer",
-		                "Trash compactor"
+		                "A) Variante de Protocolo de Red.",
+		                "B) Valoración de Protección y Negaciones.",
+		                "C) Red Privada Virtual.",
+		                "D) Virtualidad Protegida de Navegación."
 		            ],
 		            "correct" : 2
 		        },
 		        {
-		            "question" : "What are the three primary colors?",
+		            "question" : "¿Cuál es el objetivo principal de un ataque de 'man-in-the-middle'?",
 		            "content" : [
-		                "Red, green, blue",
-		                "Magenta, pink, cyan",
-		                "Yellow, salmon, brown",
-		                "White, grey, black"
+		                "A) Interceptar y manipular la comunicación entre dos partes.",
+		                "B) Dañar físicamente los dispositivos de red.",
+		                "C) Obtención de contraseñas de usuarios.",
+		                "D) Realizar copias de seguridad de datos."
 		            ],
 		            "correct" : 0
 		        },
 		        {
-		            "question" : "In aviation, what does UFO stand for?",
+		            "question" : "¿Cuál de las siguientes es una medida de seguridad importante para proteger una red Wi-Fi?",
 		            "content" : [
-		                "Unified Flying Object",
-		                "Unitary Flinging Obsession",
-		                "United Flag Opposition",
-		                "Unidentified Flying Object"
+		                "A) No cambiar nunca la contraseña predeterminada del enrutador.",
+		                "B) Posicionar el router en una ubicación específica para limitar a los demás d esu señal.",
+		                "C) Mantener la red 2.4GHz.",
+		                "D) Usar cifrado WPA2 o WPA3."
 		            ],
 		            "correct" : 3
 		        },
 		        {
-		            "question" : "In aviation, what does UFO stand for?",
+		            "question" : "¿Qué es un 'botnet' en el contexto de la ciberseguridad?",
 		            "content" : [
-		                "Unified Flying Object",
-		                "Unitary Flinging Obsession",
-		                "United Flag Opposition",
-		                "Unidentified Flying Object"
+		                "A) Un firewall de aplicaciones web y de servidores.",
+		                "B) Un software antivirus.",
+		                "C) Una red de servidores seguros.",
+		                "D) Una red de dispositivos infectados controlados por un atacante."
 		            ],
 		            "correct" : 3
 		        },
 				{
 				    "correct": 0,
 				    "content": [
-				        "low melting point",
-				        "high resistance",
-				        "high melting point",
-				        "low specific heat"
+				        "A) Una vulnerabilidad de software que se aprovecha antes de 1 día.",
+				        "B) Una ataque de software donde se deben recuperar los datos antes de 1 día.",
+				        "C) Un ransomware el cual exige el pago en menos de un día.",
+				        "D) El acceso único de un criminal informático para eliminar los datos en menos de 1 día"
 				    ],
-				    "question": "For safety, the fuse wire used in the mains for household supply of electricity must be made of metal having"
+				    "question": "¿Qué es un 'zero-day exploit'?"
 				},
 				{
 				    "correct": 3,
 				    "content": [
-				        "slowing down of economic activity over a limited period",
-				        "period during which unemployment may rise and demand and output may fall, leading to slump in trade",
-				        "period that results from accumulation of unsold goods, owing to fall in demand",
-				        "All of the above"
+				        "A) Una prueba que se le hace para el monitorear rendimiento de velocidad",
+				        "B) Una prueba creada para acceder a una posición laboral",
+				        "C) Un intento de visualizar archivos localizados en la nube",
+				        "D) Un intento controlado de explotar vulnerabilidades para identificar debilidades en un sistema."
 				    ],
-				    "question": "Recession is"
-				},
-				{
-				    "correct": 3,
-				    "content": [
-				        "Nagaland",
-				        "Arunachal Pradesh",
-				        "Assam",
-				        "All of the above"
-				    ],
-				    "question": "Guwahati High Court is the judicature of"
+				    "question": "¿Qué es un 'Penetration Test'?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "Orissa",
-				        "Tamil nadu",
-				        "Andhra Pradesh",
-				        "Kerala"
+				        "A) Simulan ataques de adversarios para evaluar la seguridad de una organización.",
+				        "B) Proteger una organización con los métodos más eficientes en TI",
+				        "C) Reaccionar de manera presta a los ataques recibidos por parte de externos",
+				        "D) Generar concientización en las organizaciones que presenten anomalías en TI"
 				    ],
-				    "question": "Heavy Water Project (Talcher) and Fertilizer plant (Paradeep) are famous industries of"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "the amount of moisture it can hold decreases",
-				        "its absolute humidity decreases",
-				        "its relative humidity remains constant",
-				        "its absolute humidity increases"
-				    ],
-				    "question": "When a given amount of air is cooled"
+				    "question": "¿Qué hace un 'Red Team' en ciberseguridad?"
 				},
 				{
 				    "correct": 2,
 				    "content": [
-				        "1789 AD",
-				        "1798 AD",
-				        "1792 AD",
-				        "1729 AD"
+				        "A) Simulan ataques de adversarios para evaluar la seguridad de una organización.",
+				        "C) Reaccionar de manera presta a los ataques recibidos por parte de externos",
+				        "C) Proteger una organización con los métodos más eficientes en TI",
+				        "D) Generar concientización en las organizaciones que presenten anomalías en TI"
 				    ],
-				    "question": "When did France became Republic?"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "Group A only",
-				        "Group B only",
-				        "Group A and O",
-				        "Group AB only"
-				    ],
-				    "question": "Of the blood groups A, B, AB and O, which one is transfused into a person whose blood group is A?"
+				    "question": "¿Qué hace un 'Blue Team' en ciberseguridad?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "coins",
-				        "numbers",
-				        "stamps",
-				        "space"
+				        "A) Un intento de adivinar contraseñas utilizando palabras comunes o diccionarios.",
+				        "B) Un intento de adivinar contraseñas utilizando letras comunes o diccionarios.",
+				        "C) Un intento de adivinar contraseñas utilizando adjetivos y sustantivos más comunes o diccionarios.",
+				        "D) Un intento de adivinar contraseñas utilizando nombres comunes o diccionarios."
 				    ],
-				    "question": "Numismatics is the study of"
+				    "question": "¿Qué es un 'Ataque de Diccionario'?"
 				},
 				{
 				    "correct": 2,
 				    "content": [
-				        "a classed unique society",
-				        "a united society",
-				        "a classed society",
-				        "None of the above"
+				        "A) La estructura TI",
+				        "B) Un dispositivo desactualizado",
+				        "C) El humano",
+				        "D) Las fallas en hardware y software"
 				    ],
-				    "question": "Karl Marx's ideology advocated"
+				    "question": "¿Cuál es considerado el eslabón más débil en la ciberseguridad?"
 				},
 				{
-				    "correct": 0,
+				    "correct": 2,
 				    "content": [
-				        "Maharashtra",
-				        "Rajasthan",
-				        "Madhya Pradesh",
-				        "Himachal Pradesh"
+				        "C) Realizar copias de seguridad de archivos.",
+				        "B) Proteger contra el malware.",
+				        "C) Atraer a los atacantes para detectar y estudiar sus actividades.",
+				        "D) Enviar correos electrónicos spam."
 				    ],
-				    "question": "Mahabaleshwar is located in"
+				    "question": "¿Cuál es el propósito de un 'Honeypot' en seguridad informática?"
 				}
 		    ]
 		},
 		{
 		    "questions" : [
 		        {
-		            "question" : "What kind of animal traditionally lives in a sty?",
+		            "question" : "¿Qué es la 'Integridad de los Datos' en ciberseguridad?",
 		            "content" : [
-		                "Cow",
-		                "Pig",
-		                "Fox",
-		                "Teenager"
+		                "A) El proceso de desencriptar datos.",
+		                "B) La garantía de que los datos no han sido modificados por partes no autorizadas.",
+		                "C) La calidad de los datos (misma cantidad de mb enviadas que recibidas)",
+		                "D) El correcto diligenciamiento de los datos"
 		            ],
 		            "correct" : 1
 		        },
 		        {
-		            "question" : "The EPA urges people to produce less waste by engaging in efforts to reduce, reuse and what?",
+		            "question" : "¿Qué es el 'Cross-Site Scripting' (XSS) en seguridad web?",
 		            "content" : [
-		                "Recycle",
-		                "Rewrap",
-		                "Repossess",
-		                "Retire"
+		                "A) Una vulnerabilidad que permite la ejecución de código malicioso en un navegador.",
+		                "B) Una vulnerabilidad que permite generar cambios en los puertos de los servidores en uso",
+		                "B) Una vulnerabilidad que permite visualizar los elementos alojados en las carpetas del disco duro",
+		                "B) Una vulnerabilidad que hace que se desactiven los drivers en un dispositivo"
 		            ],
 		            "correct" : 0
 		        },
 		        {
-		            "question" : "What is the second most common gas in the air?",
+		            "question" : "¿Qué significa 'Cross-Site Request Forgery' (CSRF) en ciberseguridad?",
 		            "content" : [
-		                "Nitrogen",
-		                "Oxygen",
-		                "Water",
-		                "Helium"
+		                "A) Un ataque que involucra numerosos intentos por parte de un externo a un servidor",
+		                "B) Un ataque que involucra la ejecución no autorizada de acciones en nombre del usuario.",
+		                "C) Un enlace malicioso en un correo electrónico.",
+		                "D) Un sistema de configuración para firewalls y nuevos usuarios en la organización"
 		            ],
 		            "correct" : 1
 		        },
 		        {
-		            "question" : "Which month has only 28 days (unless it's a leap year)?",
+		            "question" : "¿Qué es el 'RBAC' en seguridad de aplicaciones?",
 		            "content" : [
-		                "March",
-		                "September",
-		                "June",
-		                "Feburary"
+		                "A) Control de Acceso Basado en Relaciones",
+		                "B) Control de Acceso Basado en Rendimiento",
+		                "C) Restauración Basada en Acceso Corporativos",
+		                "D) Control de Acceso Basado en Roles"
 		            ],
 		            "correct" : 3
 		        },
 				{
 				    "correct": 1,
 				    "content": [
-				        "give",
-				        "prove",
-				        "both",
-				        "None of the above"
+				        "A) Un procedimiento donde el delincuente cibernético pide dinero a cambio de dinero",
+				        "B) Un ataque que roba la identificación de sesión de un usuario para suplantar su identidad.",
+				        "C) Un método para bloquear el acceso de sesión de un usuario mediante numerosos accesos",
+				        "D) Un ataque que borra las credenciales de acceso de un usuario"
 				    ],
-				    "question": "Pythagoras was first to ____ the universal validity of geometrical theorem."
+				    "question": "¿Qué es el 'Secuestro de Sesión' (Session Hijacking)?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "George Washington",
-				        "Bill Clinton",
-				        "George Bush",
-				        "None of the above"
+				        "A) Un ataque donde los pentesters no disponen de conocimiento previo acerca de la infraestructura que va a ser probada",
+				        "B) Un ataque donde los pentesters disponen de total conocimiento previo acerca de la infraestructura que va a ser probada",
+				        "C) Un ataque donde los pentesters disponen de conocimiento parcial acerca de la infraestructura que va a ser probada",
+				        "D) Un ataque donde los pentesters disponen de conocimiento dinámico acerca de la infraestructura a la hora de ser probada"
 				    ],
-				    "question": "The American General who led the revolt against the British and declared American independence was"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "1986 at Athens",
-				        "1988 at Seoul",
-				        "1924 at St. Louis",
-				        "1908 at London"
-				    ],
-				    "question": "When and where was weightlifting introduced in Olympics?"
-				},
-				{
-				    "correct": 1,
-				    "content": [
-				        "Junagarh, Gujarat",
-				        "Diphu, Assam",
-				        "Kohima, Nagaland",
-				        "Gangtok, Sikkim"
-				    ],
-				    "question": "Garampani sanctuary is located at"
+				    "question": "¿Qué es un Pentesting de caja negra?"
 				},
 				{
 				    "correct": 3,
 				    "content": [
-				        "states that no one was to be imprisoned without a writ or warrant stating the charge against him",
-				        "provided facilities to a prisoner to obtain either speedy trial or release in bail",
-				        "safeguarded the personal liberties of the people against arbitrary imprisonment by the king's orders",
-				        "All of the above"
+						"A) Un ataque donde los pentesters disponen de conocimiento dinámico acerca de la infraestructura a la hora de ser probada",
+						"B) Un ataque donde los pentesters no disponen de conocimiento previo acerca de la infraestructura que va a ser probada",
+				        "C) Un ataque donde los pentesters disponen de total conocimiento previo acerca de la infraestructura que va a ser probada",
+				        "D) Un ataque donde los pentesters disponen de conocimiento parcial acerca de la infraestructura que va a ser probada"
 				    ],
-				    "question": "The Habeas Corpus Act of 1679"
+				    "question": "¿Qué es un Pentesting de caja gris?"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+						"A) Un ataque donde los pentesters disponen de conocimiento parcial acerca de la infraestructura que va a ser probada",
+						"B) Un ataque donde los pentesters disponen de conocimiento dinámico acerca de la infraestructura a la hora de ser probada",
+						"C) Un ataque donde los pentesters no disponen de conocimiento previo acerca de la infraestructura que va a ser probada",
+				        "D) Un ataque donde los pentesters disponen de total conocimiento previo acerca de la infraestructura que va a ser probada"
+				    ],
+				    "question": "¿Qué es un Pentesting de caja blanca?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+						"A) Un ataque donde los pentesters disponen de total conocimiento previo acerca de la infraestructura que va a ser probada",
+						"B) Un ataque donde los pentesters disponen de conocimiento parcial acerca de la infraestructura que va a ser probada",
+						"C) Un ataque donde los pentesters disponen de conocimiento dinámico acerca de la infraestructura a la hora de ser probada",
+						"D) Un ataque donde los pentesters no disponen de conocimiento previo acerca de la infraestructura que va a ser probada"
+				    ],
+				    "question": "¿Cuál de los siguientes tipos de caja en Pentest no existe?"
 				},
 				{
 				    "correct": 1,
 				    "content": [
-				        "1960",
-				        "1961",
-				        "1962",
-				        "1963"
+				        "A) La práctica de buscar vulnerabilidades en el software de una organización.",
+				        "B) La práctica de buscar redes inalámbricas abiertas o vulnerables mientras se conduce en un vehículo en movimiento.",
+				        "C) La práctica de obtener acceso no autorizado a un sistema utilizando credenciales robadas.",
+				        "D) La práctica de enviar correos electrónicos maliciosos a una organización."
 				    ],
-				    "question": "When did Yuri Alekseyevich Gagaris of Russia, the first man to reach space, reach space?"
+				    "question": "¿Qué es el wardriving?"
 				},
 		        {
-		            "question" : "What are the dimensions of A4 paper?",
+		            "question" : "De las siguientes contraseñas ¿cuál es la más segura?",
 		            "content" : [
-		                "8.3\" x 11.7\"",
-		                "8.5\" x 11\"",
-		                "30cm x 50cm",
-		                "8.5\" x 14\""
+		                "A) 1234",
+		                "B) dragon",
+		                "C) p1nc3l",
+		                "D) Bi%DuIn!"
 		            ],
-		            "correct" : 0
+		            "correct" : 3
 		        },
 				{
 				    "correct": 2,
 				    "content": [
-				        "energy",
-				        "speed",
-				        "distance",
-				        "intensity"
+				        "A) Wi-Fi comunitaria gratuita y abierta, por ejemplo, en el centro de la ciudad",
+				        "B) Wi-Fi gratuita y abierta en cafeterías, restaurantes, museos, edificios públicos, aeropuertos y estaciones de tren",
+				        "C) Wi-Fi de pago en transportes y hoteles",
+				        "D) Wi-Fi privada, por ejemplo, en el domicilio de un amigo"
 				    ],
-				    "question": "Light Year is related to"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "a type of asset that is in cash in the current account of the commercial bank",
-				        "a type of asset that is in the form of a deposit in the current account of the commercial bank",
-				        "either of these",
-				        "None of the above"
-				    ],
-				    "question": "A liquid asset is"
-				},
-				{
-				    "correct": 1,
-				    "content": [
-				        "largest airport",
-				        "highest airport",
-				        "lowest airport",
-				        "busiest airport"
-				    ],
-				    "question": "Lhasa airport at Tibet is the World's"
-				},
-				{
-				    "correct": 2,
-				    "content" : [
-				        "Ethiopia",
-				        "Nigeria",
-				        "Zambia",
-				        "Chad"
-				    ],
-				    "question": "Which of these African countries is situated south of the equator?"
+				    "question": "¿A qué tipos de red Wi-Fi cree que es seguro conectar el ordenador o teléfono del trabajo fuera de la oficina? Seleccione todas las opciones que correspondan."
 				}
 		    ]
 		}
