@@ -19,28 +19,36 @@
                      "D. Hostingk"]
                    },
                    {
-                    "question": "Son importantes las URL para detectar una fake news o deepfake.",
-                    "correct": 1,
-                    "content" : [ "A. Verdadero",
-                     "B. Falso"]
-                   },
-                   {
-                    "question": "Cualquier acción ilegal que se desarrolle desde nuestra red WIFI estará asociada a nosotros, por tanto, en caso de denuncia, podemos vernos envueltos en problemas.",
-                    "correct": 1,
-                    "content" : [ "A. Verdadero",
-                     "B. Falso"]
-                   },
-                   {
-                    "question": "Conectarse a una red WIFI pública es peligroso sólo si se hace desde ordenadores de sobremesa o portátiles. Los smartphones y tablets no corren ningún riesgo.",
+                    "question": "¿Qué es un correo electrónico cifrado en seguridad de correo electrónico?",
                     "correct": 2,
-                    "content" : [ "A. Verdadero",
-                     "B. Falso"]
+                    "content" : [ "A. Un tipo de correo electrónico que contiene claves de suma importancia en su contenido. ",
+                     "B. Un correo electrónico que ha sido protegido con un método de cifrado para que solo el destinatario pueda leerlo. ",
+                     "C. Un tipo de correo electrónico con una firma digital.",
+                     "D. Hostingk"]
                    },
                    {
-                    "question": "Alguien conectado a la misma red WiFi pública que nosotros podría espiar nuestras comunicaciones.",
-                    "correct": 1,
-                    "content" : [ "A. Verdadero",
-                     "B. Falso"]
+                    "question": "¿Qué es el spam en correo electrónico?",
+                    "correct": 2,
+                    "content" : [ "A. Un tipo de alimento enlatado. ",
+                     "B. Correo no deseado o mensajes no solicitados que llenan tu bandeja de entrada. ",
+                     "C. Un tipo de archivo adjunto en un correo electrónico.",
+                     "D. Hostingk"]
+                   },
+                   {
+                    "question": "¿Qué es el spoofing de identificación de llamadas?",
+                    "correct": 2,
+                    "content" : [ "A. Un servicio para identificar llamadas en línea. ",
+                     "B. Fingir tener un número de identificación de llamada diferente al real. ",
+                     "C. Un programa de edición de video.",
+                     "D. Hostingk"]
+                   },
+                   {
+                    "question": "¿Qué es el spoofing de identidad?",
+                    "correct": 2,
+                    "content" : [ "A. Hacerse pasar por una celebridad en línea. ",
+                     "B. Suplantar la identidad de alguien más en Internet. ",
+                     "C. Un programa de edición de imágenes.",
+                     "D. Hostingk"]
                    },
                    {
                     "question": "¿Cuál es el principal motivo por el que caemos en los engaños de los ciberdelincuentes?",
@@ -175,51 +183,65 @@
                      "D. Hostingk"]
                    },
                    {
-                    "question": "Antes de realizar una compra en Internet debemos conectar nuestro dispositivo a una conexión de Internet segura, buscar en Internet el producto tienda o servicio y revisar que comience por (HTTPS).",
-                    "correct": 1,
-                    "content" : [ "A. Verdadero",
-                     "B. Falso"]
+                    "question": "¿Qué es el spoofing de correo electrónico?",
+                    "correct": 2,
+                    "content" : [ "A. Un tipo de correo electrónico con virus. ",
+                     "B. Suplantar la dirección de correo electrónico de otra persona para enviar mensajes engañosos.",
+                     "C. Un filtro de spam.",
+                     "D. Hostingk"]
                    },
                    {
-                    "question": "Personas desconocidas para ti pueden llegar a ver comentarios y\/o fotos publicados en tu perfil de redes sociales aunque tengas configurado correctamente las opciones de privacidad.",
+                    "question": "¿Qué es la autenticación de dos factores (2FA) en ciberseguridad?",
                     "correct": 1,
-                    "content" : [ "A. Verdadero",
-                     "B. Falso"]
+                    "content" : [ "A. Un proceso de verificación que utiliza dos elementos diferentes para confirmar la identidad del usuario. ",
+                     "B. Una forma de enviar dos correos electrónicos. ",
+                     "C. Un tipo de filtro de spam.",
+                     "D. Hostingk"]
                    }
             ]
         },
         {
             "questions" : [
-                {
-                    "question": "Un virus podría colarse en tu ordenador simplemente visitando una página.",
-                    "correct": 1,
-                    "content" : [ "A. Verdadero",
-                     "B. Falso"]
-                   },
-                   {
-                    "question": "Cambiar la contraseña de tu WiFi periódicamente evita completamente que cualquier intruso se conecte a tu red.",
-                    "correct": 2,
-                    "content" : [ "A. Verdadero",
-                     "B. Falso"]
-                   },
-                   {
-                    "question": "Si una página web no ofrece como método de pago PayPal no se considera fiable.",
-                    "correct": 2,
-                    "content" : [ "A. Verdadero",
-                     "B. Falso"]
-                   },
-                   {
-                    "question": "Un ordenador infectado con un virus no siempre presenta síntomas visibles de que algo va mal.\n",
-                    "correct": 1,
-                    "content" : [ "A. Verdadero",
-                     "B. Falso"]
-                   },
-                   {
-                    "question": "El modo de navegación privada del navegador evita que el navegador guarde información sobre las páginas web que se visitan, las búsquedas que se hacen o las contraseñas que se introducen.",
-                    "correct": 1,
-                    "content" : [ "A. Verdadero",
-                     "B. Falso"]
-                   },
+                    {
+                      "question": "¿Qué es una contraseña segura?",
+                      "correct": 2,
+                      "content" : [ "A. Una contraseña fácil de recordar. ",
+                      "B. Una contraseña que combina letras mayúsculas, minúsculas, números y caracteres especiales y es difícil de adivinar.",
+                      "C. Una contraseña compartida en línea.",
+                      "D. Hostingk"]
+                    },
+                    {
+                      "question": "¿Qué es un malware en ciberseguridad?",
+                      "correct": 2,
+                      "content" : [ "A. Un término para equipos informáticos maliciosos. ",
+                       "B. Software diseñado para dañar, robar o espiar tu dispositivo o datos. ",
+                       "C. Un tipo de programa de escritura en línea.",
+                       "D. Hostingk"]
+                     },
+                     {
+                      "question": "¿Cuál de las siguientes prácticas es importante para mantener la seguridad en redes sociales?",
+                      "correct": 3,
+                      "content" : [ "A. Aceptar solicitudes de amistad de cualquier persona.",
+                       "B. Compartir públicamente dónde estuviste y tomaste tus fotos.",
+                       "C. Limitar la cantidad de información personal que compartes y ser selectivo con tus conexiones.",
+                       "D. Hostingk"]
+                     },
+                     {
+                      "question": "¿Cuál de los siguientes es un ejemplo de comportamiento seguro al recibir un correo electrónico sospechoso?",
+                      "correct": 3,
+                      "content" : [ "A. Hacer clic en todos los enlaces para ver qué sucede.",
+                       "B. Abrir archivos adjuntos sin verificar su origen.",
+                       "C. Eliminar el correo electrónico y no abrir ningún enlace o archivo adjunto.",
+                       "D. Hostingk"]
+                     },
+                     {
+                      "question": "¿Qué significa phishing en el contexto de la seguridad cibernética?",
+                      "correct": 2,
+                      "content" : [ "A. Protección contra malware",
+                       "B. Intento de engañar a las personas para que revelen información confidencial",
+                       "C. Ataque de fuerza bruta",
+                       "D. Hostingk"]
+                     },
                    {
                     "question": "¿Qué indicios deben hacerte sospechar sobre un posible anuncio fraudulento publicado en una página web?",
                     "correct": 2,
