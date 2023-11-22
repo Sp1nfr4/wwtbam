@@ -4,99 +4,99 @@
             "questions" : [
                 {
                     "question": "Un indicativo de que se trata de una noticia falsa es…",
-                    "correct": 3,
+                    "correct": 2,
                     "content" :  ["A. Un formato poco cuidado.",
                      "B. Malas traducciones, errores ortográficos y gramaticales.",
-                     "C. Todas son correctas.",
-                     "D. Hostingk"]
+                     "C. A y B son correctas.",
+                     "D. A y B son incorrectas"]
                    },
                    {
                     "question": "¿En qué es más recomendable fijarse para detectar las fake news en relación al medio en el que se publica?",
-                    "correct": 1,
+                    "correct": 0,
                     "content" : [ "A. Contrastar la reputación del medio y del autor que publica la noticia.",
                      "B. La fecha de publicación es garantía suficiente para contrastar la veracidad de la noticia.",
                      "C. No hace falta contrastar el autor, solamente hay que fijarse en que esté firmada.",
-                     "D. Hostingk"]
+                     "D. La persona que comparte el documento."]
                    },
                    {
                     "question": "¿Qué es un correo electrónico cifrado en seguridad de correo electrónico?",
-                    "correct": 2,
+                    "correct": 1,
                     "content" : [ "A. Un tipo de correo electrónico que contiene claves de suma importancia en su contenido. ",
                      "B. Un correo electrónico que ha sido protegido con un método de cifrado para que solo el destinatario pueda leerlo. ",
                      "C. Un tipo de correo electrónico con una firma digital.",
-                     "D. Hostingk"]
+                     "D. Un correo que cuenta con letras ordenadas de tal forma que se necesite un método diferente para leerlo"]
                    },
                    {
                     "question": "¿Qué es el spam en correo electrónico?",
-                    "correct": 2,
-                    "content" : [ "A. Un tipo de alimento enlatado. ",
-                     "B. Correo no deseado o mensajes no solicitados que llenan tu bandeja de entrada. ",
+                    "correct": 3,
+                    "content" : [ "A. Un tipo de correo que busca tu ingreso en enlaces aparte. ",
+                     "B. Un tipo de correo que encuentra tus accesos en el día a día. ",
                      "C. Un tipo de archivo adjunto en un correo electrónico.",
-                     "D. Hostingk"]
+                     "D. Correo no deseado o mensajes no solicitados que llenan tu bandeja de entrada. "]
                    },
                    {
                     "question": "¿Qué es el spoofing de identificación de llamadas?",
-                    "correct": 2,
+                    "correct": 1,
                     "content" : [ "A. Un servicio para identificar llamadas en línea. ",
                      "B. Fingir tener un número de identificación de llamada diferente al real. ",
                      "C. Un programa de edición de video.",
-                     "D. Hostingk"]
+                     "D. Contar con un identificador de llamadas en tu celular"]
                    },
                    {
                     "question": "¿Qué es el spoofing de identidad?",
-                    "correct": 2,
+                    "correct": 3,
                     "content" : [ "A. Hacerse pasar por una celebridad en línea. ",
-                     "B. Suplantar la identidad de alguien más en Internet. ",
+                     "B. Reconocer las identidades de delincuentes cibernéticos ",
                      "C. Un programa de edición de imágenes.",
-                     "D. Hostingk"]
+                     "D. Suplantar la identidad de alguien más en Internet. "]
                    },
                    {
                     "question": "¿Cuál es el principal motivo por el que caemos en los engaños de los ciberdelincuentes?",
-                    "correct": 3,
+                    "correct": 2,
                     "content" : [ "A. Todas son correctas.",
                      "B. Por el desconocimiento sobre los ataques de ingeniería social.",
-                     "C. Todas son correctas.",
-                     "D. Hostingk"]
+                     "C. A y B son correctas.",
+                     "D. A y B son incorrectas"]
                    },
                    {
                     "question": "A la hora de protegernos de los ciberdelincuentes, el pilar más importante de la cadena son…",
-                    "correct": 2,
+                    "correct": 1,
                     "content" : [ "A. Los antivirus.",
                      "B. Las personas.",
                      "C. Las actualizaciones.",
-                     "D. Hostingk"]
+                     "D. Los componentes de IT"]
                    },
                    {
                     "question": "A la hora de protegernos de los ciberdelincuentes, el pilar más importante de la cadena son…",
-                    "correct": 2,
+                    "correct": 1,
                     "content" : [ "A. Los antivirus.",
                      "B. Las personas.",
                      "C. Las actualizaciones.",
-                     "D. Hostingk"]
+                     "D. Los componentes de IT"]
                    },
                    {
                     "question": "Has sido víctimas de una falsificación bancaria, lo mejor es...",
-                    "correct": 3,
+                    "correct": 2,
                     "content" : [ "A. Responder al correo o al mensaje recibido y solicitar que eliminen tus datos.",
                      "B. Cambiar las credenciales de acceso y contactar con el banco.",
                      "C. Cancelar la cuenta del banco lo antes posible.",
-                     "D. Hostingk"]
+                     "D. Eliminar los correos recibidos durante la falsificación"]
                    },
                    {
                     "question": "Si necesitamos registrarnos en una página web en la que no confiamos demasiado, una buena estrategia sería...",
-                    "correct": 3,
+                    "correct": 2,
                     "content" : [ "A. Utilizar una cuenta de correo alternativa.",
                      "B. Utilizar nuestro correo electrónico poco habitual.",
                      "C. No registrarnos.",
-                     "D. Hostingk"]
+                     "D. Usar una cuenta de correo falsa"]
                    },
                    {
                     "question": "Cuando almacenamos información en la nube podemos utilizar servicios conocidos como…",
-                    "correct": 2,
+                    "correct": 3,
                     "content" : [ "A. CopiasSeguridad.com",
-                     "B. OneDrive o Google Drive.",
+                     "B. Utilizar el almacenamiento del celular.",
                      "C. Mi nube personal.",
-                     "D. Hostingk"]
+                     "D. OneDrive o Google Drive."]
                    }
             ]
         },
@@ -104,99 +104,99 @@
             "questions" : [
                 {
                     "question": "¿Cuál de las siguientes opciones crees que es una web segura?",
-                    "correct": 3,
+                    "correct": 2,
                     "content" : [ "A. http://security.paginaweb.com",
                      "B. seguridad.paginaweb.com",
                      "C. https://paginaweb.com",
-                     "D. Hostingk"]
+                     "D. http://protection.gogle.com"]
                    },
                    {
                     "question": "Qué son Firefox, Google Chrome, Internet Explorer o Microsoft Edge",
-                    "correct": 1,
-                    "content" : [ "A. Navegadores",
+                    "correct": 3,
+                    "content" : [ "A. Sistemas Operativos",
                      "B. Firewalls",
                      "C. Buscadores",
-                     "D. Hostingk"]
+                     "D. Navegadores"]
                    },
                    {
                     "question": "Dispones de algún dispositivo, como una tablet, que compartes entre toda la familia. ¿Cuál de las siguientes opciones es la más segura?",
-                    "correct": 2,
+                    "correct": 1,
                     "content" : [ "A. Cada uno utiliza una cuenta distinta.",
                      "B. Tenemos cuentas distintas con permisos distintos.",
                      "C. Todos utilizamos la misma cuenta.",
-                     "D. Hostingk"]
+                     "D. Todos utilizamos la misma cuenta aunque en horarios diferentes."]
                    },
                    {
                     "question": "Entre las siguientes opciones, ¿cuál dirías que es una contraseña robusta y segura?",
-                    "correct": 2,
+                    "correct": 1,
                     "content" : [ "A. micontraseña",
                      "B. P3rr0grande11!",
                      "C. 1234567890",
-                     "D. Hostingk"]
+                     "D. bYp455"]
                    },
                    {
                     "question": "Un correo ha llegado a tu bandeja de entrada. En el mensaje dice que es tu banco y que debido a una actividad sospechosa, necesita que hagas clic en un enlace para conectarte a tu cuenta. ¿Qué es lo más recomendado?",
-                    "correct": 1,
+                    "correct": 0,
                     "content" : [ "A. Llamaría a mi banco para comprobar el mensaje.",
                      "B. Haría clic en el enlace y seguiría los pasos.",
                      "C. Ignoraría el mensaje.",
-                     "D. Hostingk"]
+                     "D. Haría clic en su enlace pero no seguiría los pasos"]
                    },
                    {
                     "question": "Para realizar pagos de manera física con el teléfono móvil (NFC) mediante Google Pay o Apple Pay…",
-                    "correct": 3,
+                    "correct": 2,
                     "content" : [ "A. Es necesario tener activado el wifi o transferencia de datos móviles.",
                      "B. Es obligatorio llevar las tarjetas físicas.",
                      "C. Es necesario tener activo el NFC del teléfono móvil.",
-                     "D. Hostingk"]
+                     "D. Es necesario contar con Andoid 5.0 en adelante"]
                    },
                    {
                     "question": "¿Cómo podemos detectar posibles fraudes si somos nosotros el vendedor de una tienda online?",
-                    "correct": 1,
+                    "correct": 0,
                     "content" : [ "A. El comprador nos solicita recoger el paquete mediante un mensajero y realizar el pago posteriormente.",
                      "B. El comprador nos solicita el pago mediante un método de pago como PayPal, tarjetas de crédito, Google Pay o Apple Pay.",
-                     "C. El comprador utiliza la comunicación dentro de la plataforma\/web en la que está el producto en venta.",
-                     "D. Hostingk"]
+                     "C. El comprador utiliza la comunicación dentro de la plataforma web en la que está el producto en venta.",
+                     "D. El comprador solicita fotos del productp de manera imperativa y vacila en su decisión al comprar el producto"]
                    },
                    {
-                    "question": "\nRespecto a las reseñas de un producto, ¿qué debemos valorar antes de realizar nuestra compra?",
-                    "correct": 1,
+                    "question": "Respecto a las reseñas de un producto, ¿qué debemos valorar antes de realizar nuestra compra?",
+                    "correct": 0,
                     "content" : [ "A. Son numerosas y hay opiniones de todo tipo, pero predominan las positivas.",
                      "B. El producto tiene pocas reseñas y todas buenas.",
                      "C. Hay muchas reseñas positivas, pero están mal redactadas.",
-                     "D. Hostingk"]
+                     "D. Si los nombres de las personas son comunes"]
                    },
                    {
-                    "question": "Una vez realizado el pago de nuestro producto, debemos comprobar…",
+                    "question": "Una vez realizado el pago de nuestro producto en una tienda online, debemos comprobar…",
                     "correct": 3,
                     "content" : [ "A. Mantener abierta la sesión de la cuenta para mayor seguridad.",
                      "B. Guardar los datos de las tarjetas en la plataforma para realizar futuras compras.",
-                     "C. Si hemos recibido una copia del recibo o factura y nos han enviado un enlace o número de seguimiento del producto.",
-                     "D. Hostingk"]
+                     "C. Si la persona ha recibido el dinero exitosamente",
+                     "D. Si hemos recibido una copia del recibo o factura y nos han enviado un enlace o número de seguimiento del producto."]
                    },
                    {
                     "question": "Es buena señal que en una web de compra online que…",
-                    "correct": 3,
+                    "correct": 2,
                     "content" : [ "A. La URL tenga HTTP y no coincida con el nombre exacto de la empresa.",
                      "B. No aparezca un candado cerrado junto al URL.",
                      "C. La URL tenga HTTPS y junto a ella aparezca un candado cerrado.",
-                     "D. Hostingk"]
+                     "D. Tenga una apariencia profesional pues una empresa no puede ni debe contar con un un desarrollo deficiente"]
                    },
                    {
                     "question": "¿Qué es el spoofing de correo electrónico?",
-                    "correct": 2,
+                    "correct": 3,
                     "content" : [ "A. Un tipo de correo electrónico con virus. ",
-                     "B. Suplantar la dirección de correo electrónico de otra persona para enviar mensajes engañosos.",
+                     "B. Suplantar la firma electrónica en documentos word o pdf que se comparten por correo electrónico",
                      "C. Un filtro de spam.",
-                     "D. Hostingk"]
+                     "D. Suplantar la dirección de correo electrónico de otra persona para enviar mensajes engañosos."]
                    },
                    {
                     "question": "¿Qué es la autenticación de dos factores (2FA) en ciberseguridad?",
-                    "correct": 1,
+                    "correct": 0,
                     "content" : [ "A. Un proceso de verificación que utiliza dos elementos diferentes para confirmar la identidad del usuario. ",
                      "B. Una forma de enviar dos correos electrónicos. ",
                      "C. Un tipo de filtro de spam.",
-                     "D. Hostingk"]
+                     "D. Un proceso en el que se requiere una 2da cuenta para confirmar su autenticación"]
                    }
             ]
         },
@@ -204,99 +204,99 @@
             "questions" : [
                     {
                       "question": "¿Qué es una contraseña segura?",
-                      "correct": 2,
+                      "correct": 1,
                       "content" : [ "A. Una contraseña fácil de recordar. ",
                       "B. Una contraseña que combina letras mayúsculas, minúsculas, números y caracteres especiales y es difícil de adivinar.",
                       "C. Una contraseña compartida en línea.",
-                      "D. Hostingk"]
+                      "D. Una contraseña que combina letras mayúsculas, minúsculas, números y alguna fecha que recuerdes"]
                     },
                     {
                       "question": "¿Qué es un malware en ciberseguridad?",
-                      "correct": 2,
+                      "correct": 3,
                       "content" : [ "A. Un término para equipos informáticos maliciosos. ",
-                       "B. Software diseñado para dañar, robar o espiar tu dispositivo o datos. ",
+                       "B. Software diseñado para encontrar vulnerabilidades en tu sistema. ",
                        "C. Un tipo de programa de escritura en línea.",
-                       "D. Hostingk"]
+                       "D. Software diseñado para dañar, robar o espiar tu dispositivo o datos. "]
                      },
                      {
                       "question": "¿Cuál de las siguientes prácticas es importante para mantener la seguridad en redes sociales?",
-                      "correct": 3,
+                      "correct": 2,
                       "content" : [ "A. Aceptar solicitudes de amistad de cualquier persona.",
                        "B. Compartir públicamente dónde estuviste y tomaste tus fotos.",
                        "C. Limitar la cantidad de información personal que compartes y ser selectivo con tus conexiones.",
-                       "D. Hostingk"]
+                       "D. Limitar la cantidad de información, publicaciones y artículos que recibes, ya que en ellos se pueden filtrar algun tipo de virus"]
                      },
                      {
                       "question": "¿Cuál de los siguientes es un ejemplo de comportamiento seguro al recibir un correo electrónico sospechoso?",
-                      "correct": 3,
+                      "correct": 2,
                       "content" : [ "A. Hacer clic en todos los enlaces para ver qué sucede.",
                        "B. Abrir archivos adjuntos sin verificar su origen.",
                        "C. Eliminar el correo electrónico y no abrir ningún enlace o archivo adjunto.",
-                       "D. Hostingk"]
+                       "D. Abrir los archivos compartidos estando en el modo incógnito del navegador para evitar fugas de información"]
                      },
                      {
                       "question": "¿Qué significa phishing en el contexto de la seguridad cibernética?",
-                      "correct": 2,
+                      "correct": 1,
                       "content" : [ "A. Protección contra malware",
                        "B. Intento de engañar a las personas para que revelen información confidencial",
                        "C. Ataque de fuerza bruta",
-                       "D. Hostingk"]
+                       "D. Intento de acceso a un sitio web por medio de herramientas de ciber ataque"]
                      },
                    {
                     "question": "¿Qué indicios deben hacerte sospechar sobre un posible anuncio fraudulento publicado en una página web?",
-                    "correct": 2,
+                    "correct": 3,
                     "content" : [ "A. Pagos mediante PayPal.",
-                     "B. Solicitud de dinero por adelantado.",
+                     "B. Solicitud de creación de usuario de manera primordial.",
                      "C. Buenos precios.",
-                     "D. Hostingk"]
+                     "D. Solicitud de dinero por adelantado."]
                    },
                    {
                     "question": "En Internet, cuando hablamos de cookies, ¿a qué nos referimos?",
-                    "correct": 3,
+                    "correct": 2,
                     "content" : [ "A. A un tipo de virus que es capaz de interceptar las comunicaciones de los usuarios.",
                      "B. Correos electrónicos que se reenvían en cadena y que tienen como objetivo engañar a los usuarios para que faciliten información confidencial.",
                      "C. Pequeños ficheros que los navegadores almacenan en el ordenador con datos del usuario sobre las páginas web que visita.",
-                     "D. Hostingk"]
+                     "D. Pequeños ficheros en el Sistema Operativo que busca encontrar y proteger los datos más importantes en Windows."]
                    },
                    {
                     "question": "Las redes sociales son un servicio que te permiten estar en contacto con otras personas, por eso…",
-                    "correct": 1,
+                    "correct": 0,
                     "content" : [ "A. Eres cuidadoso con la información que compartes y tienes bien configurados los niveles de privacidad.",
                      "B. Compartes todo lo que haces con todos tus contactos, para eso es una red social.",
                      "C. Aceptas todas las solicitudes de amistad que recibes, te gusta tener muchos amigos, así tus publicaciones tienen más éxito (más me gustas, compartidos, etc.).",
-                     "D. Hostingk"]
+                     "D. Aceptas las alertas que recibes a diario en diferentes sitios web y redes sociales pues si se solicitan son necesarias"]
                    },
                    {
-                    "question": "¿Qué debes hacer si la policía bloquea tu ordenador por haber accedido a contenidos ilegales de Internet y te pide $1200.000 COP para solucionarlo?",
-                    "correct": 3,
-                    "content" : [ "A. Pagar la multa de los $1200.000 COP. Es la única forma de desbloquear el equipo.",
+                    "question": "¿Qué debes hacer si la policía bloquea tu ordenador por haber accedido a contenidos ilegales de Internet y te pide $1.200.000 COP para solucionarlo?",
+                    "correct": 2,
+                    "content" : [ "A. Pagar la multa de los $1.200.000 COP. Es la única forma de desbloquear el equipo.",
                      "B. Formatear el ordenador para que se borre todo tu historial de navegación y evitar tener que pagar la multa.",
                      "C. Consultar la situación con la propia policía o con terceras partes de tu confianza para informarte sobre el problema y saber así cómo proceder.",
-                     "D. Hostingk"]
+                     "D. Llevar tu equipo donde un técnico/profesional a que se encargue del bloqueo de manera correcta."]
                    },
                    {
                     "question": "¿Crees que son seguras las siguientes contraseñas?",
-                    "correct": 1,
+                    "correct": 0,
                     "content" : [ "A. 123asdZXC, sí es segura porque tiene más de 8 caracteres, minúsculas, mayúsculas y números.",
                      "B. 14081980, sí es segura, es un código numérico y además cómo es tu fecha de cumpleaños puedes recordarla fácilmente.",
-                     "C. No, ninguna de las contraseñas anteriores te parece segura.",
-                     "D. Hostingk"]
+                     "C. No, ni A ni B te parece segura.",
+                     "D. Sí, pues en ambas se encuentran números aleatoreos"]
                    },
                    {
                     "question": "Recibes este correo de tu banco en el que te solicita confirmar tus datos personales y bancarios de manera urgente, supuestamente por motivos de seguridad:",
-                    "correct": 3,
+                    "correct": 2,
                     "content" : [ "A. Es cierto que el correo te resulta extraño... pero te puede la curiosidad y haces clic en el enlace.",
                      "B. Te preocupan mucho los temas de seguridad. Por este motivo, haces clic en el enlace que te facilitan en el correo para ver qué es exactamente lo que necesitan.",
                      "C. Te parece un poco raro que el banco te solicite esos datos. Decides contrastar la información directamente con el banco antes de realizar ninguna acción.",
-                     "D. Hostingk"]
+                     "D. Te parece un poco raro que el banco te solicite esos datos. Decides enviar sólamente información básica como nombre y número de contacto."]
                    },
                    {
                     "question": "Los smartphones y tablets no se infectan con virus",
-                    "correct": 2,
+                    "correct": 1,
                     "content" : [ "A. Cierto. Una de las principales ventajas de los smartphones y tablets es que no se ven afectados por amenazas informáticas.",
                      "B. Mentira. Los programas maliciosos también afectan a estos dispositivos y por este motivo debemos instalar un antivirus específico.",
                      "C. Mentira. Los programas maliciosos también afectan a estos dispositivos aunque a día de hoy, no existen herramientas antivirus para estos dispositivos.",
-                     "D. Hostingk"]
+                     "D. Cierto. Los dispositivos que se infectan con virus son computadores portátiles y equipos de mesa por sitios inseguros."]
                    }
             ]
         },
@@ -304,99 +304,99 @@
             "questions" : [
                 {
                     "question": "¿Qué tipo de información personal es más recomendable que no compartas en redes sociales?",
-                    "correct": 3,
+                    "correct": 2,
                     "content" : [ "A. Nombres de mascotas.",
                      "B. Colores favoritos",
                      "C. Lugar y fecha de nacimiento",
-                     "D. Hostingk"]
+                     "D. Nombres de amigos"]
                    },
                    {
                     "question": "¿A qué tipos de red Wi-Fi cree que es más seguro conectar el ordenador o teléfono del trabajo fuera de la oficina?",
-                    "correct": 1,
+                    "correct": 0,
                     "content" : [ "A. Wi-Fi de pago en transportes y hoteles",
                      "B. Wi-Fi privada, por ejemplo, en el domicilio de un amigo",
                      "C. Wi-Fi comunitaria gratuita y abierta, por ejemplo, en el centro de la ciudad",
-                     "D. Hostingk"]
+                     "D. Wi-Fi de sitios públicos"]
                    },
                    {
                     "question": "De las siguientes contraseñas ¿cuál es la más segura?",
-                    "correct": 3,
+                    "correct": 2,
                     "content" : [ "A. 1234",
                      "B. p1nc3l",
                      "C. Bi%DuIn!",
-                     "D. Hostingk"]
+                     "D. H0st1ngk"]
                    },
                    {
                     "question": "¿Qué es el Secuestro de Sesión (Session Hijacking)",
-                    "correct": 2,
+                    "correct": 1,
                     "content" : [ "A. Un procedimiento donde el delincuente cibernético pide dinero a cambio de dinero",
                      "B. Un ataque que roba la identificación de sesión de un usuario para suplantar su identidad",
                      "C. Un ataque que borra las credenciales de acceso de un usuario",
-                     "D. Hostingk"]
+                     "D. Un ataque que borra las credenciales de acceso de una corporación internacional"]
                    },
                    {
                     "question": "¿Qué es la Integridad de los Datos en ciberseguridad?",
-                    "correct": 1,
-                    "content" : [ "A. La garantía de que los datos no han sido modificados por partes no autorizadas",
+                    "correct": 3,
+                    "content" : [ "A. La garantía de que los datos han sido creados con una estructura de datos específica",
                      "B. El proceso de desencriptar datos",
                      "C. El correcto diligenciamiento de los datos",
-                     "D. Hostingk"]
+                     "D. La garantía de que los datos no han sido modificados por partes no autorizadas"]
                    },
                    {
                     "question": "¿Cuál es considerado el componente más importante en la ciberseguridad?",
-                    "correct": 2,
+                    "correct": 1,
                     "content" : [ "A. La estructura TI",
                      "B. El humano",
                      "C. Las fallas en hardware y software",
-                     "D. Hostingk"]
+                     "D. Su dominio y hosting"]
                    },
                    {
                     "question": "¿Qué hace un Blue Team en ciberseguridad?",
-                    "correct": 3,
+                    "correct": 2,
                     "content" : [ "A. Simulan ataques de adversarios para evaluar la seguridad de una organización",
                      "B. Reaccionar de manera presta a los ataques recibidos por parte de externos",
                      "C. Proteger una organización con los métodos más eficientes en TI",
-                     "D. Hostingk"]
+                     "D. Realizar estrategias ofensivas de ciberseguridad enfocada a Servidores"]
                    },
                    {
                     "question": "¿Qué hace un Red Team en ciberseguridad?",
-                    "correct": 1,
+                    "correct": 0,
                     "content" : [ "A. Simulan ataques de adversarios para evaluar la seguridad de una organización",
                      "B. Proteger una organización con los métodos más eficientes en TI",
                      "C. Reaccionar de manera presta a los ataques recibidos por parte de externos",
-                     "D. Hostingk"]
+                     "D. Realizar estrategias defensivas de ciberseguridad enfocada a Sistemas Operativos"]
                    },
                    {
                     "question": "¿Qué significa IoT en el contexto de la ciberseguridad?",
-                    "correct": 3,
+                    "correct": 2,
                     "content" : [ "A. Internet o Tecnología",
                      "B. Técnicas del Internet",
                      "C. Internet de las cosas",
-                     "D. Hostingk"]
+                     "D. Internet o Transmisión"]
                    },
                    {
                     "question": "¿Qué es un hacker ético?",
-                    "correct": 3,
+                    "correct": 2,
                     "content" : [ "A. Una persona que accede a datos ilegales confidenciales pero no comercializa con ellos",
                      "B. Una persona que practica el hacking en sitios de entidades externas sin su concentimiento",
                      "C. Una persona que trabaja legalmente para identificar vulnerabilidades en sistemas",
-                     "D. Hostingk"]
+                     "D. Una persona que practica el hacking en sitios web sin su concentimiento con fin de entretenimiento"]
                    },
                    {
                     "question": "¿Cuál de las siguientes NO es una recomendación para crear una contraseña segura?",
-                    "correct": 2,
+                    "correct": 1,
                     "content" : [ "A. Usar una combinación de letras mayúsculas y minúsculas",
                      "B. Usar contraseñas cortas y fáciles de recordar",
                      "C. Incluir caracteres especiales y números",
-                     "D. Hostingk"]
+                     "D. Usar contraseñas de más de 12 dígitos"]
                    },
                    {
                     "question": "¿Cuál de las siguientes NO es una técnica de ingeniería social?",
-                    "correct": 3,
+                    "correct": 2,
                     "content" : [ "A. Falsificación de identidad",
                      "B. Phishing",
                      "C. Ataque de fuerza bruta",
-                     "D. Hostingk"]
+                     "D. Vishing"]
                    }
             ]
         },
@@ -404,99 +404,99 @@
             "questions" : [
                 {
                     "question": "¿Cuál de las siguientes no es una práctica segura en ciberseguridad?",
-                    "correct": 1,
-                    "content" : [ "A. Manejar contraseñas compartidas.",
+                    "correct": 0,
+                    "content" : [ "A. Manejar un control de accesos.",
                      "B. Usar autenticación de dos factores.",
                      "C. Mantener contraseñas fuertes.",
-                     "D. Hostingk"]
+                     "D. Manejar contraseñas compartidas."]
                    },
                    {
                     "question": "¿Qué práctica de seguridad impide que un archivo o mensaje se lea por terceros no autorizados?",
-                    "correct": 1,
+                    "correct": 0,
                     "content" : [ "A. Cifrado",
                      "B. Firewall",
                      "C. Antivirus",
-                     "D. Hostingk"]
+                     "D. hijacking"]
                    },
                    {
                     "question": "¿Qué práctica de seguridad se refiere a la restricción de permisos y accesos a sistemas y datos en función de las necesidades del usuario?",
-                    "correct": 2,
+                    "correct": 1,
                     "content" : [ "A. Uso de contraseñas cortas",
                      "B. Principio de privilegio mínimo",
                      "C. Contraseñas compartidas",
-                     "D. Hostingk"]
+                     "D. Utilizar contraseñas fáciles de recordar"]
                    },
                    {
                     "question": "¿Cuál de las siguientes es una práctica recomendada para protegerse contra ransomware?",
-                    "correct": 1,
+                    "correct": 0,
                     "content" : [ "A. Realizar copias de seguridad regulares de los datos",
                      "B. Desactivar el antivirus",
                      "C. Compartir contraseñas en línea",
-                     "D. Hostingk"]
+                     "D. Activar la protección DDOS"]
                    },
                    {
                     "question": "¿Qué tipo de ataque implica engañar a los usuarios para que revelen información confidencial?",
-                    "correct": 3,
-                    "content" : [ "A. Ataque de suplantación de identidad",
+                    "correct": 2,
+                    "content" : [ "A. Ataque de suplantación de identificación",
                      "B. Ataque de diccionario",
                      "C. Ingeniería social",
-                     "D. Hostingk"]
+                     "D. Ingeniería activa"]
                    },
                    {
                     "question": "¿Qué es una URL segura o HTTPS?",
-                    "correct": 2,
-                    "content" : [ "A. Una forma de acortar direcciones web. ",
-                     "B. Una conexión cifrada y segura entre tu navegador y un sitio web. ",
+                    "correct": 1,
+                    "content" : [ "A. Una forma de acortar direcciones web.",
+                     "B. Una conexión cifrada y segura entre tu navegador y un sitio web.",
                      "C. Una herramienta para crear páginas web.",
-                     "D. Hostingk"]
+                     "D. Una forma de compartir URLs"]
                    },
                    {
                     "question": "¿Cuál es el propósito de un certificado SSL en un sitio web?",
-                    "correct": 2,
-                    "content" : [ "A. Un certificado para aprender a escribir código HTML. ",
-                     "B. Para asegurar que la información transmitida entre el usuario y el sitio web esté cifrada y segura. ",
+                    "correct": 1,
+                    "content" : [ "A. Un certificado para aprender a escribir código HTML.",
+                     "B. Para asegurar que la información transmitida entre el usuario y el sitio web esté cifrada y segura.",
                      "C. Un tipo de servidor web.",
-                     "D. Hostingk"]
+                     "D. Un certificado que asegura una conexión rápida en siitos web"]
                    },
                    {
                     "question": "¿Qué es un ataque de fuerza bruta en seguridad web?",
-                    "correct": 2,
+                    "correct": 1,
                     "content" : [ "A. Un intento de acceso a una aplicación por medio de un antivirus encriptado.",
-                     "B. Un intento de adivinar una contraseña probando todas las combinaciones posibles. ",
+                     "B. Un intento de adivinar una contraseña probando todas las combinaciones posibles.",
                      "C. Un software antivirus.",
-                     "D. Hostingk"]
+                     "D. Un intento de acceder a un servidor web mediante contraseñas obtenidas en Ingeniería Social"]
                    },
                    {
                     "question": "¿Qué es una VPN (Red Privada Virtual)?",
                     "correct": 3,
                     "content" : [ "A. Una red social popular. ",
-                     "B. Un servicio que oculta tu identidad en línea. ",
+                     "B. Una red que busca compartir archivos de manera segura entre diferentes equipos.",  
                      "C. Un servicio que protege tu privacidad en línea al enmascarar tu ubicación y cifrar tus datos",
-                     "D. Hostingk"]
+                     "D. Un servicio que oculta tu identidad en línea."]
                    },
                    {
                     "question": "¿Qué es un antivirus?",
-                    "correct": 2,
+                    "correct": 1,
                     "content" : [ "A. Un software que mejora la velocidad de tu dispositivo. ",
                      "B. Un programa que protege tu dispositivo contra virus y malware.",
                      "C. Un programa el cual evita que te llamen estafadores",
-                     "D. Hostingk"]
+                     "D. Un software que busca controlar las actualizaciones de los equipos"]
                    },
                    {
                     "question": "¿Qué es un firewall?",
-                    "correct": 2,
-                    "content" : [ "A. Un dispositivo que cocina alimentos. ",
-                     "B. Un sistema de seguridad que protege una red al controlar el tráfico de entrada y salida.",
+                    "correct": 3,
+                    "content" : [ "A. Un dispositivo que encuentra archivos defectuosos. ",
+                     "B. Un programa para detectar fallas en el sistema que pueden ser aprovechadas por ciberdelincuentes",
                      "C. Un sistema operativo con el fin de mejorar el rendimiento de los smartphones",
-                     "D. Hostingk"]
+                     "D. Un sistema de seguridad que protege una red al controlar el tráfico de entrada y salida."]
                    },
                    {
                     "question": "¿Qué es un cliente de correo web o webmail?",
-                    "correct": 2,
+                    "correct": 3,
                     "content" : [ "A. Un tipo de programa de edición de imágenes. ",
-                     "B. Un servicio en línea que te permite acceder a tu correo electrónico desde un navegador web. ",
+                     "B. Un servicio para enciar correos únicamente de manera asíncrona",
                      "C. Un servicio para enviar correo postal.",
-                     "D. Hostingk"]
+                     "D. Un servicio en línea que te permite acceder a tu correo electrónico desde un navegador web."]  
                    }
             ]
         }
