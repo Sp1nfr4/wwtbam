@@ -53,7 +53,7 @@
                    {
                     "question": "¿Cuál es el principal motivo por el que caemos en los engaños de los ciberdelincuentes?",
                     "correct": 2,
-                    "content" : [ "A. Todas son correctas.",
+                    "content" : [ "A. Por el descuido a la hora de usar nuestra información online.",
                      "B. Por el desconocimiento sobre los ataques de ingeniería social.",
                      "C. A y B son correctas.",
                      "D. A y B son incorrectas"]
