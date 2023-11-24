@@ -404,7 +404,7 @@
             "questions" : [
                 {
                     "question": "¿Cuál de las siguientes no es una práctica segura en ciberseguridad?",
-                    "correct": 0,
+                    "correct": 3,
                     "content" : [ "A. Manejar un control de accesos.",
                      "B. Usar autenticación de dos factores.",
                      "C. Mantener contraseñas fuertes.",
