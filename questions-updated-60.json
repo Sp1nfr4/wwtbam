@@ -175,7 +175,7 @@
                      "D. Si hemos recibido una copia del recibo o factura y nos han enviado un enlace o número de seguimiento del producto."]
                    },
                    {
-                    "question": "Es buena señal que en una web de compra online que…",
+                    "question": "Es buena señal que en una web de compra online…",
                     "correct": 2,
                     "content" : [ "A. La URL tenga HTTP y no coincida con el nombre exacto de la empresa.",
                      "B. No aparezca un candado cerrado junto al URL.",
