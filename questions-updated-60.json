@@ -312,7 +312,7 @@
                    },
                    {
                     "question": "¿A qué tipos de red Wi-Fi cree que es más seguro conectar el ordenador o teléfono del trabajo fuera de la oficina?",
-                    "correct": 0,
+                    "correct": 1,
                     "content" : [ "A. Wi-Fi de pago en transportes y hoteles",
                      "B. Wi-Fi privada, por ejemplo, en el domicilio de un amigo",
                      "C. Wi-Fi comunitaria gratuita y abierta, por ejemplo, en el centro de la ciudad",
