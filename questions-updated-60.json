@@ -329,7 +329,7 @@
                    {
                     "question": "¿Qué es el Secuestro de Sesión (Session Hijacking)",
                     "correct": 1,
-                    "content" : [ "A. Un procedimiento donde el delincuente cibernético pide dinero a cambio de dinero",
+                    "content" : [ "A. Un procedimiento donde el delincuente cibernético pide dinero a cambio de información robada",
                      "B. Un ataque que roba la identificación de sesión de un usuario para suplantar su identidad",
                      "C. Un ataque que borra las credenciales de acceso de un usuario",
                      "D. Un ataque que borra las credenciales de acceso de una corporación internacional"]
