@@ -153,10 +153,10 @@
                    {
                     "question": "¿Cómo podemos detectar posibles fraudes si somos nosotros el vendedor de una tienda online?",
                     "correct": 0,
-                    "content" : [ "A. El comprador nos solicita recoger el paquete mediante un mensajero y realizar el pago posteriormente.",
-                     "B. El comprador nos solicita el pago mediante un método de pago como PayPal, tarjetas de crédito, Google Pay o Apple Pay.",
-                     "C. El comprador utiliza la comunicación dentro de la plataforma web en la que está el producto en venta.",
-                     "D. El comprador solicita fotos del productp de manera imperativa y vacila en su decisión al comprar el producto"]
+                    "content" : [ "A. Se nos solicita entregar el paquete y realizar el pago posteriormente.",
+                     "B. Se nos solicita un método de pago como PayPal, tarjetas de crédito, Google Pay o Apple Pay.",
+                     "C. El comprador usa el chat del sitio web.",
+                     "D. El comprador solicita fotos del producto de manera imperativa"]
                    },
                    {
                     "question": "Respecto a las reseñas de un producto, ¿qué debemos valorar antes de realizar nuestra compra?",
