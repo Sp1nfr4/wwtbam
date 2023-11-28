@@ -286,9 +286,9 @@
                     "question": "Recibes este correo de tu banco en el que te solicita confirmar tus datos personales y bancarios de manera urgente, supuestamente por motivos de seguridad:",
                     "correct": 2,
                     "content" : [ "A. Es cierto que el correo te resulta extraño... pero te puede la curiosidad y haces clic en el enlace.",
-                     "B. Te preocupan mucho los temas de seguridad. Por este motivo, haces clic en el enlace que te facilitan en el correo para ver qué es exactamente lo que necesitan.",
-                     "C. Te parece un poco raro que el banco te solicite esos datos. Decides contrastar la información directamente con el banco antes de realizar ninguna acción.",
-                     "D. Te parece un poco raro que el banco te solicite esos datos. Decides enviar sólamente información básica como nombre y número de contacto."]
+                     "B. Haces clic en el enlace que te facilitan en el correo para ver qué es lo que necesitan.",
+                     "C. Decides contrastar la información directamente con el banco antes de realizar ninguna acción.",
+                     "D. Decides enviar sólamente información básica como nombre y número de contacto."]
                    },
                    {
                     "question": "Los smartphones y tablets no se infectan con virus",
